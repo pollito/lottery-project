@@ -4,6 +4,18 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Do you know enough about the lottery?"
+  author: Raymond Joseph
+  date: 2018-03-11
+  url: https://omny.fm/shows/capetalk/do-you-know-enough-about-the-lottery
+  image: Cape-Talk.jpg
+  paper: Cape Talk
+- title: "Pop-up NPOs score big at Lotto, while others battle"
+  author: Anton van Zyl
+  date: 2018-02-26
+  url: https://www.zoutpansberger.co.za/articles/news/46147/2018-02-26/pop-up-npos-score-big-at-lotto-while-others-battle
+  image: Zoutpansberger.jpg
+  paper: Zoutpansberger
 - title: "West Coast Fossil Park: A lottery success story"
   author: Roxanne Joseph and Raymond Joseph
   date: 2018-02-22
@@ -46,6 +58,12 @@ links:
   url: https://www.occrp.org/en/investigations/7422-millions-in-south-african-lottery-grants-administered-by-chicken-farmer
   image: ithuba.jpg
   paper: OCCRP
+- title: "NLC keeps on giving - but not much to see here"
+  author: Anton van Zyl
+  date: 2017-12-10
+  url: https://www.zoutpansberger.co.za/articles/news/45231/2017-12-10/nlc-keeps-on-giving-but-not-much-to-see-here
+  image: Zoutpansberger-1.jpg
+  paper: Zoutpansberger
 - title: "Following the path of the Lotto millions in Vhembe"
   author: Anton van Zyl
   date: 2017-11-19
