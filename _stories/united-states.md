@@ -4,6 +4,12 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: "Some people repeatedly win the Wisconsin Lottery. Do they play fair?"
+  author: Peter Coutu
+  date: 2018-03-19
+  url: https://www.jsonline.com/story/news/local/wisconsin/2018/03/19/some-people-repeatedly-win-wisconsin-lottery-do-they-play-fair/437778002/
+  image: jsonline.jpg
+  paper: Journal Sentinel
 - title: "Just how lucky are regular lottery winners?"
   author: Charlotte McDonald
   date: 2017-12-03
