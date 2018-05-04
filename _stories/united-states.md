@@ -10,7 +10,7 @@ links:
   url: http://www.wbur.org/news/2018/04/27/lottery-frequent-winners-policy-delay
   image: lottery-frequent.jpg
   paper: WBUR
-  - title: "Some people repeatedly win the Wisconsin Lottery. Do they play fair?"
+- title: "Some people repeatedly win the Wisconsin Lottery. Do they play fair?"
   author: Peter Coutu
   date: 2018-03-19
   url: https://www.jsonline.com/story/news/local/wisconsin/2018/03/19/some-people-repeatedly-win-wisconsin-lottery-do-they-play-fair/437778002/
