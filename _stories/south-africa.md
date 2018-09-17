@@ -8,7 +8,7 @@ links:
   author: Jon Allsop and Anton van Zyl
   date: 2018-09-17
   url: https://www.limpopomirror.co.za/articles/news/48237/2018-09-17/mbulaheni-stadium-slowly-gathers-momentum
-  image: sports_centre.jpg
+  image: track_star.jpg
   paper: Limpopo Mirror
 - title: "Do you know enough about the lottery?"
   author: Raymond Joseph
