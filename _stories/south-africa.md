@@ -10,6 +10,12 @@ links:
   url: https://www.limpopomirror.co.za/articles/news/48237/2018-09-17/mbulaheni-stadium-slowly-gathers-momentum
   image: track_star.jpg
   paper: Limpopo Mirror
+- title: "The high cost of Rabali’s World Cup legacy"
+  author: Jon Allsop and Maanda Bele
+  date: 2018-09-10
+  url: https://www.limpopomirror.co.za/articles/news/48164/2018-09-10/the-high-cost-of-rabalias-world-cup-legacy
+  image: rabali.jpeg
+  paper: Limpopo Mirror
 - title: "Do you know enough about the lottery?"
   author: Raymond Joseph
   date: 2018-03-11
