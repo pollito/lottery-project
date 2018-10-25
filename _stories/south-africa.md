@@ -4,6 +4,18 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Sascoc kicked off the lottery"
+  author: Raymond Joseph and Jon Allsop
+  date: 2018-10-10
+  url: https://city-press.news24.com/News/sascoc-kicked-off-the-lottery-20181006
+  image: Sascoc.jpg
+  paper: City Press
+- title: "Lottery money goes to waste as school falls apart"
+  author: Kaizer Nengovhela and Raymond Joseph
+  date: 2018-10-05
+  url: https://www.groundup.org.za/article/lotteries-money-goes-waste-school-falls-apart/
+  image: Vhafamadi-school.jpg
+  paper: GroundUp
 - title: "Mbulaheni stadium slowly gathers momentum"
   author: Jon Allsop and Anton van Zyl
   date: 2018-09-17
