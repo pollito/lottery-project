@@ -4,6 +4,12 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: "The State Lottery Has A New Rule To Stop Repeat Winners — But So Far, They Keep Winning"
+  author: Lisa Creamer and Jeff Kelly Lowenstein
+  date: 2018-10-24
+  url: http://www.wbur.org/news/2018/10/24/repeat-lottery-winners-policy-massachusetts
+  image: Lottery-policy.jpg
+  paper: WBUR
 - title: "Amid Delay In New Lottery Policy, Repeat Winners Keep On Winning"
   author: Lisa Creamer and Jeff Kelly Lowenstein
   date: 2018-04-27
