@@ -4,10 +4,16 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
-- title: "Sascoc kicked off the lottery"
+- title: "Miljoene vir maatjies"
   author: Raymond Joseph and Jon Allsop
-  date: 2018-10-10
-  url: https://city-press.news24.com/News/sascoc-kicked-off-the-lottery-20181006
+  date: 2018-10-07
+  url: https://gamingthelottery.org/files/rapport-sascoc-story.pdf
+  image: zar-money.jpg
+  paper: Rapport
+- title: "Sascoc kicked off the lottery Gravy Train"
+  author: Raymond Joseph and Jon Allsop
+  date: 2018-10-07
+  url: https://gamingthelottery.org/files/city-press-sascoc-story.pdf
   image: Sascoc.jpg
   paper: City Press
 - title: "Lottery money goes to waste as school falls apart"
