@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Who plays the Lottery?"
+  author: Roxanne Joseph
+  date: 2018-11-16
+  url: https://lowvelder.co.za/459741/who-plays-the-lottery/?fbclid=IwAR1dB6yh0c0ZnLHqp6Tt-nUhr7i3ZNzF0g6jSbgjIyXnlm7wRggk1EvLZqU
+  image: Lowvelder-poverty.jpg
+  paper: Lowvelder 
 - title: "Miljoene vir maatjies"
   author: Raymond Joseph and Jon Allsop
   date: 2018-10-07
