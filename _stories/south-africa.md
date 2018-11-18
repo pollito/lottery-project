@@ -4,6 +4,24 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery investigated internationally"
+  author: Tereasa Dias
+  date: 2018-11-16
+  url: https://lowvelder.co.za/459735/lottery-investigated-internationally/?fbclid=IwAR2qOSF0n_kx5c2q34XizmB4gtGBG-YDaGzu5eB_K2vRAPjfXiAqwzEIsC8
+  image: Lowvelder-file.jpg
+  paper: Lowvelder 
+- title: "Lottery grants under investigation"
+  author: Tereasa Dias
+  date: 2018-11-16
+  url: https://lowvelder.co.za/459724/lottery-grants-investigation/?fbclid=IwAR1W538jpMu0PPRwHTe3w1gGRTTROcUnkfRNODYOm0lnKE7H66xvwKhLkWQ
+  image: Lowvelder-sport.jpg
+  paper: Lowvelder 
+- title: "National Lottery Commission denies wrongdoing"
+  author: Tereasa Dias
+  date: 2018-11-16
+  url: https://lowvelder.co.za/459732/national-lottery-commission-denies-wrongdoing/?fbclid=IwAR3NnwrokCkm6dXOELrsDbl5AHerwz082ZCl9AIQd9rLi5jDiHP21q7Icn4
+  image: Lowvelder-NLC.jpg
+  paper: Lowvelder 
 - title: "Who plays the Lottery?"
   author: Roxanne Joseph
   date: 2018-11-16
