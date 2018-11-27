@@ -4,6 +4,18 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: "The State's Lottery Distribution System Means Some Places Are Winners And Others Losers"
+  author: Lisa Creamer and Jeff Kelly Lowenstein 
+  date: 2018-11-20
+  url: http://www.wbur.org/news/2018/11/20/lottery-formula-nantucket-harvard
+  image: Winners-and-losers.jpg
+  paper: WBUR
+- title: "See How Much Money Your Town Or City Gives, And Gets From, The Lottery"
+  author: Lisa Creamer, Jeff Kelly Lowenstein and Daigo Fujiwara
+  date: 2018-11-20
+  url: http://www.wbur.org/news/2018/11/20/state-lottery-funds-map-winners-losers
+  image: Lotto-map-US.jpg
+  paper: WBUR
 - title: "The State Lottery Has A New Rule To Stop Repeat Winners — But So Far, They Keep Winning"
   author: Lisa Creamer and Jeff Kelly Lowenstein
   date: 2018-10-24
