@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "How a hijacked organisation scored millions from the Lottery"
+  author: Raymond Joseph and Anton van Zyl
+  date: 2018-11-22
+  url: https://www.groundup.org.za/article/how-hijacked-npos-scored-millions-lottery/
+  image: Lotto-buildings.jpg
+  paper: GroundUp 
 - title: "Lottery investigated internationally"
   author: Tereasa Dias
   date: 2018-11-16
