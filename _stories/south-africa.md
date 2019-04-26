@@ -25,7 +25,7 @@ links:
 - title: "Lotto millions spent on two 'missing' movies"
   author: Siphe Macanda and Wara Fana
   date: 2018-12-15
-  url: https://github.com/pollito/lottery-project/blob/master/files/missing-movies-daily-dispatch.pdf
+  url: https://gamingthelottery.org/files/missing-movies-daily-dispatch.pdf
   image: Missing-movie.jpg
   paper: Daily Dispatch
 - title: "The Lawyer, the Lottery and millions in dodgy grants"
