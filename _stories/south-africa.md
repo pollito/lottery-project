@@ -4,6 +4,30 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery recipient’s attempt to muzzle media fails - for now"
+  author: GroundUp Staff
+  date: 2019-04-17
+  url: https://www.groundup.org.za/article/lottery-recipients-attempt-muzzle-media-fails-now/
+  image: Muzzle-media.jpg
+  paper: GroundUp 
+- title: "Lottery looting needs to be investigated – urgently"
+  author: GroundUp Editors
+  date: 2019-03-20
+  url: https://www.groundup.org.za/article/groundview-lottery-needs-be-investigated-urgently/
+  image: Rob-Davies.jpg
+  paper: GroundUp 
+- title: "Lottery gives out more money to associates of controversial lawyer"
+  author: Raymond Joseph
+  date: 2019-03-19
+  url: https://www.groundup.org.za/article/lottery-gives-out-more-money-associates-controversial-lawyer/
+  image: Muzzle-media.jpg
+  paper: GroundUp 
+- title: "The Lawyer, the Lottery and millions in dodgy grants"
+  author: Raymond Joseph
+  date: 2018-12-14
+  url: https://www.groundup.org.za/article/lawyer-lottery-and-millions-dodgy-grants/
+  image: Dodgy-grants.jpg
+  paper: GroundUp
 - title: "How a hijacked organisation scored millions from the Lottery"
   author: Raymond Joseph and Anton van Zyl
   date: 2018-11-22
