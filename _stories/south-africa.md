@@ -22,6 +22,12 @@ links:
   url: https://www.groundup.org.za/article/lottery-gives-out-more-money-associates-controversial-lawyer/
   image: Muzzle-media.jpg
   paper: GroundUp 
+- title: "Lotto millions spent on two 'missing' movies"
+  author: Siphe Macanda and Wara Fana
+  date: 2018-12-15
+  url: https://github.com/pollito/lottery-project/blob/master/files/missing-movies-daily-dispatch.pdf
+  image: Missing-movie.jpg
+  paper: Daily Dispatch
 - title: "The Lawyer, the Lottery and millions in dodgy grants"
   author: Raymond Joseph
   date: 2018-12-14
