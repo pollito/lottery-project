@@ -9,7 +9,13 @@ links:
   date: 2019-04-17
   url: https://www.groundup.org.za/article/lottery-recipients-attempt-muzzle-media-fails-now/
   image: Muzzle-media.jpg
-  paper: GroundUp 
+  paper: GroundUp
+- title: "Lotto's R10m mystery toilet project in EC"
+  author: Raymond Joseph
+  date: 2019-03-22
+  url: https://gamingthelottery.org/files/daily-dispatch-dinosys.pdf
+  image: dinosys.jpg
+  paper: Daily Dispatch 
 - title: "Lottery looting needs to be investigated – urgently"
   author: GroundUp Editors
   date: 2019-03-20
