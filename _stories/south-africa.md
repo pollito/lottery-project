@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery’s promise of toilets leaves a nasty smell"
+  author: Anton van Zyl, Bernard Chiguvare, Kaizer Nengovhela and Raymond Joseph
+  date: 2019-05-03
+  url: https://www.groundup.org.za/article/lotterys-promises-toilets-leaves-nasty-smell/
+  image: toilets.jpg
+  paper: GroundUp
 - title: "Lottery recipient’s attempt to muzzle media fails - for now"
   author: GroundUp Staff
   date: 2019-04-17
