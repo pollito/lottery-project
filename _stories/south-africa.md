@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Probe into fraud and corruption at National Lotteries Commission"
+  author: Raymond Joseph
+  date: 2019-05-13
+  url: https://www.groundup.org.za/article/probe-fraud-and-corruption-national-lotteries-commission/
+  image: groundup-1.jpg
+  paper: GroundUp
 - title: "Lottery’s promise of toilets leaves a nasty smell"
   author: Anton van Zyl, Bernard Chiguvare, Kaizer Nengovhela and Raymond Joseph
   date: 2019-05-03
