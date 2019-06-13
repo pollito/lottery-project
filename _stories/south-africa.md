@@ -8,7 +8,7 @@ links:
   author: Anton van Zyl
   date: 2019-05-24
   url: https://www.groundup.org.za/article/limpopos-forgotten-schools-and-lotterys-expensive-toilets/
-  image: forgotten-toilets.jpg
+  image: forgotten-schools.jpg
   paper: GroundUp
 - title: "Journalist receives strange letter from supposed lottery beneficiary"
   author: Katherine Liu
