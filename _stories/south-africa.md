@@ -4,12 +4,36 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Limpopo’s forgotten schools and the Lottery’s expensive toilets"
+  author: Anton van Zyl
+  date: 2019-05-24
+  url: https://www.groundup.org.za/article/limpopos-forgotten-schools-and-lotterys-expensive-toilets/
+  image: forgotten-toilets.jpg
+  paper: GroundUp
+- title: "Journalist receives strange letter from supposed lottery beneficiary"
+  author: Katherine Liu
+  date: 2019-05-22
+  url: https://www.groundup.org.za/article/journalist-receives-strange-letter-supposed-lottery-beneficiary/
+  image: strange-letter.jpg
+  paper: GroundUp
+- title: "Lottery admits its investigating projects it defended"
+  author: Raymond Joseph
+  date: 2019-05-16
+  url: https://www.dailymaverick.co.za/article/2019-05-16-lottery-admits-its-investigating-projects-it-defended/
+  image: Lotto-buildings.jpg
+  paper: Daily Maverick
 - title: "Probe into fraud and corruption at National Lotteries Commission"
   author: Raymond Joseph
   date: 2019-05-13
   url: https://www.groundup.org.za/article/probe-fraud-and-corruption-national-lotteries-commission/
   image: groundup-1.jpg
   paper: GroundUp
+- title: "Lottery’s promise of toilets leaves a nasty smell"
+  author: Anton van Zyl, Bernard Chiguvare, Kaizer Nengovhela, Raymond Joseph, GroundUp
+  date: 2019-05-4
+  url: https://citizen.co.za/news/south-africa/special-feature/2126223/lotterys-promise-of-toilets-leaves-a-nasty-smell/
+  image: toilets.jpg
+  paper: The Citizen
 - title: "Lottery’s promise of toilets leaves a nasty smell"
   author: Anton van Zyl, Bernard Chiguvare, Kaizer Nengovhela and Raymond Joseph
   date: 2019-05-03
