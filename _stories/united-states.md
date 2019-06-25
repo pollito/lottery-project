@@ -4,6 +4,18 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: "The Lottery Industry"
+  author: David Hopper 
+  date: 2019-06-21
+  url: https://academicminute.org/2019/06/jeff-lowenstein-grand-valley-state-university-the-lottery-industry/
+  image: lotto-balls.jpg
+  paper: Academic Minute
+- title: "2 years after PennLive investigation, auditors raise questions about prize claims in S.C. Lottery"
+  author: Daniel Simmons-Ritchie 
+  date: 2019-06-11
+  url: https://www.pennlive.com/news/2019/06/two-years-after-pennlive-investigation-auditors-raise-questions-about-suspicious-prize-claims-in-south-carolina-lottery.html
+  image: lotto-ticket.jpg
+  paper: PennLive
 - title: "The State's Lottery Distribution System Means Some Places Are Winners And Others Losers"
   author: Lisa Creamer and Jeff Kelly Lowenstein 
   date: 2018-11-20
