@@ -4,6 +4,36 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "DTI washes its hands of lottery scandal"
+  author: Tessa Knight
+  date: 2019-08-15
+  url: https://www.groundup.org.za/article/dti-washes-its-hands-lottery-scandal/
+  image: Ebrahim-Patel.jpg
+  paper: GroundUp
+- title: "Lottery-funded rehab centre unfinished after two years"
+  author: Raymond Joseph
+  date: 2019-08-12
+  url: https://www.groundup.org.za/article/lottery-funded-rehab-centre-unfinished-two-years-later/
+  image: Dodgy-lottery4.jpg
+  paper: GroundUp
+- title: "The Lottery-funded library with empty shelves"
+  author: Raymond Joseph
+  date: 2019-08-07
+  url: https://www.groundup.org.za/article/lottery-funded-library-empty-shelves/?fbclid=IwAR0F01oTPUR5QfeX8tLqyZqgSP0NDG6Nov5d8VNVd_g_k6hVkTWGexLrcBk
+  image: Dodgy-lottery3.jpg
+  paper: GroundUp
+- title: "Kuruman’s unfinished R23 million old age home"
+  author: Raymond Joseph
+  date: 2019-08-05
+  url: https://www.groundup.org.za/article/kurumans-unfinished-r23-million-old-age-home/
+  image: Dodgy-lottery2.jpg
+  paper: GroundUp
+- title: "Conflicts of interest and incomplete projects: How Lottery money is being spent"
+  author: Raymond Joseph
+  date: 2019-08-01
+  url: https://www.groundup.org.za/article/conflicts-interest-and-incomplete-projects-how-lottery-money-meant-develop-country-being-spent/
+  image: Dodgy-lottery1.jpg
+  paper: GroundUp
 - title: "Limpopo’s forgotten schools and the Lottery’s expensive toilets"
   author: Anton van Zyl
   date: 2019-05-24
