@@ -4,6 +4,42 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "How a lawyer used a Lottery-funded project as his personal ATM"
+  author: Raymond Joseph
+  date: 2019-10-22
+  url: https://www.groundup.org.za/article/how-lawyer-used-lottery-funded-project-his-personal-atm/
+  image: Denzhe-unfinished.jpg
+  paper: GroundUp
+- title: "Lottery COO sues GroundUp for R600k"
+  author: GroundUp Staff
+  date: 2019-10-17
+  url: https://www.groundup.org.za/article/lottery-coo-sues-groundup-r600k/
+  image: Lotto-labour-court.jpg
+  paper: GroundUp
+- title: "NLC response to Sershan Naidoo’s allegations"
+  author: Ndivhuho Mafela
+  date: 2019-10-10
+  url: https://www.groundup.org.za/article/nlc-response-sershan-naidoos-allegations/
+  image: Lotto-labour-court.jpg
+  paper: GroundUp
+- title: "Commission executive heads to Labour Court"
+  author: Ciaran Ryan
+  date: 2019-10-09
+  url: https://www.groundup.org.za/article/former-national-lotteries-commission-executive-heads-labour-court/
+  image: Lotto-labour-court.jpg
+  paper: GroundUp
+- title: "Corruption allegation at National Lotteries Commission"
+  author: eNCA
+  date: 2019-09-19
+  url: https://www.youtube.com/watch?v=YPopWa8lenc
+  image: Lotto-corruption-scandal.jpg
+  paper: eNCA
+- title: "Ebrahim Patel recommends criminal case in Lottery debacle"
+  author: Raymond Joseph
+  date: 2019-09-06
+  url: https://www.groundup.org.za/article/ebrahim-patel-expresses-displeasure-lotterys-internal-investigation/
+  image: Ebrahim-Patel-WEF.jpg
+  paper: GroundUp
 - title: "DTI washes its hands of lottery scandal"
   author: Tessa Knight
   date: 2019-08-15
