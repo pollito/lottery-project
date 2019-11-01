@@ -4,6 +4,24 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "How to buy your dream house using public money"
+  author: Raymond Joseph
+  date: 2019-10-31
+  url: https://www.groundup.org.za/article/how-buy-your-dream-house-using-public-money/
+  image: Mooikloof.jpg
+  paper: GroundUp
+- title: "The Lottery COO and the mysterious payments"
+  author: Raymond Joseph
+  date: 2019-10-25
+  url: https://www.groundup.org.za/article/lottery-coo-and-mysterious-payments/
+  image: LotteryPeople.jpg
+  paper: GroundUp
+- title: "Lotteries Commission is trying to sell you horse manure"
+  author: Anton van Zyl
+  date: 2019-10-22
+  url: https://www.groundup.org.za/article/lotteries-commission-trying-sell-you-horse-manure/
+  image: Lotto-labour-court.jpg
+  paper: GroundUp
 - title: "How a lawyer used a Lottery-funded project as his personal ATM"
   author: Raymond Joseph
   date: 2019-10-22
