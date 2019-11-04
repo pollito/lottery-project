@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery hides its beneficiaries following corruption exposés"
+  author: Raymond Joseph
+  date: 2019-11-04
+  url: https://www.groundup.org.za/article/following-corruption-exposes-lottery-hides-its-beneficiaries/
+  image: Lotto-ticket.jpg
+  paper: GroundUp
 - title: "How to buy your dream house using public money"
   author: Raymond Joseph
   date: 2019-10-31
