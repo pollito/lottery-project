@@ -16,6 +16,12 @@ links:
   url: https://www.groundup.org.za/article/how-buy-your-dream-house-using-public-money/
   image: Mooikloof.jpg
   paper: GroundUp
+- title: "Mystery grows over province's R23.7m Lotto 'boxing arena'"
+  author: Bongani Fuzile and Mesuli Zifo
+  date: 2019-10-26
+  url: https://gamingthelottery.org/files/Boxing-arena-lotto-dispatch.pdf
+  image: Dodgy-lottery1.jpg
+  paper: Daily Dispatch 
 - title: "The Lottery COO and the mysterious payments"
   author: Raymond Joseph
   date: 2019-10-25
