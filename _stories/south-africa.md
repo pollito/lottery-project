@@ -4,6 +4,54 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Is the National Lotteries Commission countering media exposés with advertising?"
+  author: Raymond Joseph
+  date: 2019-12-17
+  url: https://www.groundup.org.za/article/national-lotteries-commission-countering-media-exposes-advertising/
+  image: NLCSignMarapyane.jpg
+  paper: GroundUp
+- title: "Top Lottery executives coin it"
+  author: Roxanne Joseph and Nompumelelo Mtsweni
+  date: 2019-12-09
+  url: https://www.groundup.org.za/article/top-lottery-executives-coin-it/
+  image: Money.jpg
+  paper: GroundUp
+- title: "Mystery Limpopo outfit gets multi-million rand Lottery contract for old age home in Mpumalanga"
+  author: Raymond Joseph
+  date: 2019-12-06
+  url: https://www.groundup.org.za/article/mystery-limpopo-outfit-gets-multi-million-lottery-contract-old-age-home-mpumalanga/
+  image: Marapyane.jpg
+  paper: GroundUp
+- title: "Tata ma (almost no) chance: Household income of most lottery players is less than R10,000 per month"
+  author: Roxanne Joseph
+  date: 2019-12-02
+  url: https://www.groundup.org.za/article/tata-ma-almost-no-chance-household-income-most-lottery-players-less-r10000-month/
+  image: Lotto-hands.jpg
+  paper: GroundUp
+- title: "The Lottery and the mystery multi-million rand boxing arena"
+  author: Joseph Chirume
+  date: 2019-11-28
+  url: https://www.groundup.org.za/article/lottery-and-mystery-multi-million-rand-boxing-arena/
+  image: BoxingArena.jpg
+  paper: GroundUp
+- title: "Does Sunday World want to do journalism or be a defender of corruption?"
+  author: Nathan Geffen
+  date: 2019-11-25
+  url: https://www.groundup.org.za/article/does-sunday-world-want-do-journalism-or-be-mouthpiece-corruption/
+  image: Lotto-ticket.jpg
+  paper: GroundUp
+- title: "Patel’s spokesman dodges questions on Lottery"
+  author: Karabo Mafolo
+  date: 2019-11-13
+  url: https://www.groundup.org.za/article/patels-spokesman-dodges-questions-lottery/
+  image: Ebrahim-Patel-WEF.jpg
+  paper: GroundUp
+- title: "National Lotteries Commission grilled in Parliament"
+  author: Karabo Mafolo
+  date: 2019-11-06
+  url: https://www.groundup.org.za/article/national-lotteries-commission-grilled-parliamentarians/
+  image: Parliamient.jpg
+  paper: GroundUp
 - title: "Lottery hides its beneficiaries following corruption exposés"
   author: Raymond Joseph
   date: 2019-11-04
