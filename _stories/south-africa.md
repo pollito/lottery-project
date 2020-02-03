@@ -4,6 +4,24 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery paid millions of rands to COO’s wife’s company"
+  author: Raymond Joseph
+  date: 2020-01-28
+  url: https://www.groundup.org.za/article/lottery-paid-millions-rands-coos-wifes-company/
+  image: rebotile-malomane.jpg
+  paper: GroundUp
+- title: "Member of Parliament calls for Lottery board to be fired"
+  author: Raymond Joseph
+  date: 2020-01-23
+  url: https://www.groundup.org.za/article/member-parliament-calls-lottery-board-be-fired/
+  image: Ebrahim-Patel.jpg
+  paper: GroundUp
+- title: "Money from Lottery goes to cousin of National Lotteries Commission boss"
+  author: Raymond Joseph
+  date: 2020-01-20
+  url: https://www.groundup.org.za/article/money-lottery-goes-cousin-national-lotteries-commission-boss/
+  image: phillemon-letwaba.jpg
+  paper: GroundUp
 - title: "Is the National Lotteries Commission countering media exposés with advertising?"
   author: Raymond Joseph
   date: 2019-12-17
