@@ -56,7 +56,7 @@ links:
   author: Elna Schütz
   date: 2020-03-06
   url: https://www.groundup.org.za/article/civil-society-asks-dti-consideration-lotto-corruption-scandal/
-  image: dti-march-060320.jpg
+  image: dti-march-060320.jpeg
   paper: GroundUp
 - title: "Zibsifusion: a case study of Lottery corruption"
   author: Anton van Zyl
