@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lotto looter Leslie Ramulifho has committed fraud and perjury"
+  author: Raymond Joseph
+  date: 2020-05-13
+  url: https://www.groundup.org.za/article/lotto-looter-leslie-ramulifho-has-committed-fraud-and-perjury/
+  image: nlc-beneficiaries-100320.jpg
+  paper: GroundUp
 - title: "Covid-19: Minister puts a stop to lottery ticket sales"
   author: Raymond Joseph
   date: 2020-04-25
