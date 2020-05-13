@@ -4,6 +4,84 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Covid-19: Minister puts a stop to lottery ticket sales"
+  author: Raymond Joseph
+  date: 2020-04-25
+  url: https://www.groundup.org.za/article/covid-19-minister-orders-end-lotto-ticket-sales/
+  image: ebrahim-patel-250420.jpg
+  paper: GroundUp
+- title: "Covid-19: You can’t buy warm food, but you can buy Lottery tickets"
+  author: Raymond Joseph
+  date: 2020-04-24
+  url: https://www.groundup.org.za/article/covid-19-you-cant-buy-warm-food-you-can-buy-lottery-tickets/
+  image: lotto-tickets-240420.jpg
+  paper: GroundUp
+- title: "Dodgy off-the-shelf companies cash in on Lottery millions"
+  author: Raymond Joseph
+  date: 2020-04-10
+  url: https://www.groundup.org.za/article/dodgy-shelf-companies-cash-lottery-millions/
+  image: nlc-beneficiaries-100320.jpg
+  paper: GroundUp
+- title: "Lottery was warned in 2014 about fraud – and yet it continued"
+  author: Raymond Joseph
+  date: 2020-04-03
+  url: https://www.groundup.org.za/article/lottery-was-warned-2014-about-fraud-and-yet-it-continued/
+  image: lottery-threatens-030220.jpg
+  paper: GroundUp
+- title: "'Scandal-ridden' Lottery chairperson to serve extra year"
+  author: Karabo Mafolo
+  date: 2020-03-30
+  url: https://www.groundup.org.za/article/scandal-ridden-lottery-chairperson-serve-extra-year/
+  image: alfred-nevhunda-300320.jpg
+  paper: GroundUp
+- title: "How the Lottery funded an R8.5 million Facebook page"
+  author: Liezl Human
+  date: 2020-03-16
+  url: https://www.groundup.org.za/article/how-lottery-funded-r85-million-facebook-page/
+  image: lottery-threatens-030220.jpg
+  paper: GroundUp
+- title: "Lottery officials fibbed about clean audits"
+  author: Karabo Mafolo
+  date: 2020-03-13
+  url: https://www.groundup.org.za/article/lottery-officials-fibbed-about-clean-audits/
+  image: lottery-audit-130320.jpg
+  paper: GroundUp
+- title: "National Lotteries Commission refuses to release list of beneficiaries"
+  author: Karabo Mafolo
+  date: 2020-03-10
+  url: https://www.groundup.org.za/article/national-lotteries-commission-refuses-release-list-beneficiaries/
+  image: nlc-beneficiaries-100320.jpg
+  paper: GroundUp
+- title: "Lottery supporters march against journalists who exposed corruption"
+  author: Elna Schütz
+  date: 2020-03-06
+  url: https://www.groundup.org.za/article/civil-society-asks-dti-consideration-lotto-corruption-scandal/
+  image: dti-march-060320.jpg
+  paper: GroundUp
+- title: "Zibsifusion: a case study of Lottery corruption"
+  author: Anton van Zyl
+  date: 2020-03-03
+  url: https://www.groundup.org.za/article/zibsifusion-case-study-lottery-corruption/
+  image: zibsifusion-030320.jpg
+  paper: GroundUp
+- title: "The Lottery and the missing minstrel museum"
+  author: Raymond Joseph
+  date: 2020-02-21
+  url: https://www.groundup.org.za/article/lottery-and-missing-minstrel-museum/
+  image: missing-minstrel-210320.jpg
+  paper: GroundUp
+- title: "Pressure grows for Parliament to “get to the bottom” of accusations against Lottery"
+  author: Elna Schütz
+  date: 2020-02-05
+  url: https://www.groundup.org.za/article/pressure-grows-parliament-get-bottom-accusations-against-lottery/
+  image: lottery-threatens-030220.jpg
+  paper: GroundUp
+- title: "Lottery threatens criminal charges against journalists"
+  author: GroundUp Staff
+  date: 2020-02-03
+  url: https://www.groundup.org.za/article/lottery-threatens-criminal-charges-against-journalists/
+  image: lottery-threatens-030220.jpg
+  paper: GroundUp
 - title: "Lottery paid millions of rands to COO’s wife’s company"
   author: Raymond Joseph
   date: 2020-01-28
