@@ -4,6 +4,36 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Hijacked organisation gets millions in Lottery grants"
+  author: Raymond Joseph
+  date: 2020-06-22
+  url: hhttps://www.groundup.org.za/article/hijacked-organisation-gets-millions-lottery-grants/
+  image: WAR_RNA.jpg
+  paper: GroundUp
+- title: "United Civil Society in Action sues GroundUp and the National Lotteries Commission"
+  author: Elna Schütz
+  date: 2020-06-17
+  url: https://www.groundup.org.za/article/united-civil-society-action-sues-groundup-and-national-lotteries-commission/
+  image: PretoriaHighCourt.jpeg
+  paper: GroundUp
+- title: "Lottery fails to name beneficiaries of multimillion-rand Covid-19 fund"
+  author: Raymond Joseph 
+  date: 2020-06-11
+  url: https://www.groundup.org.za/article/lottery-fails-name-beneficiaries-multimillion-rand-covid-19-fund/
+  image: NLC.jpg
+  paper: GroundUp
+- title: "NPA declines to prosecute Lottery looter"
+  author: Raymond Joseph 
+  date: 2020-06-03
+  url: https://www.groundup.org.za/article/npa-declines-prosecute-lottery-looter/
+  image: NPA.jpg
+  paper: GroundUp
+- title: "Lottery throws millions more at dodgy projects"
+  author: Raymond Joseph and Anton van Zyl
+  date: 2020-05-25
+  url: https://www.groundup.org.za/article/lottery-throws-millions-more-unfinished-projects/
+  image: MailaVillage.jpg
+  paper: GroundUp
 - title: "Lotto looter Leslie Ramulifho has committed fraud and perjury"
   author: Raymond Joseph
   date: 2020-05-13
