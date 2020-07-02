@@ -10,6 +10,18 @@ links:
   url: hhttps://www.groundup.org.za/article/hijacked-organisation-gets-millions-lottery-grants/
   image: WAR_RNA.jpg
   paper: GroundUp
+  - title: "Government investigates lottery"
+  author: Raymond Joseph
+  date: 2020-06-29
+  url: https://www.groundup.org.za/article/government-investigates-lottery/
+  image: Ebrahim-Patel.jpg
+  paper: GroundUp
+  - title: "“Lawfare” launched against GroundUp to stop us exposing lottery corruption"
+  author: GroundUp Editors
+  date: 2020-06-25
+  url: https://www.groundup.org.za/article/lawfare-launched-against-groundup-to-stop-us-exposing-lottery-corruption/
+  image: Dodgy-lottery1.jpg
+  paper: GroundUp
 - title: "United Civil Society in Action sues GroundUp and the National Lotteries Commission"
   author: Elna Schütz
   date: 2020-06-17
