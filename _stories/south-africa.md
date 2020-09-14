@@ -4,17 +4,71 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
-- title: "Hijacked organisation gets millions in Lottery grants"
+- title: "Lotto millions used for minor renovations to stadium"
+  author:  Anton van Zyl and Raymond Joseph
+  date: 2020-09-10
+  url: https://www.groundup.org.za/article/lotto-millions-used-minor-renovations-stadium/
+  image: Mdabula-stadium.jpeg
+  paper: GroundUp
+- title: "Patel hands evidence in lottery probe over to police"
+  author: Marecia Damons and Raymond Joseph
+  date: 2020-09-02
+  url: https://www.groundup.org.za/article/evidence-lottery-probe-handed-police/
+  image: Lionel-October.jpg
+  paper: GroundUp
+- title: "Lotteries Act regulations to face legal challenge"
+  author: Marecia Damons and Raymond Joseph
+  date: 2020-08-07
+  url: https://www.groundup.org.za/article/lotteries-act-regulations-face-legal-challenge/
+  image: challenging.jpg
+  paper: GroundUp
+- title: "Millions of rands in lottery funding for mysterious music festival"
+  author: Marecia Damons and Raymond Joseph
+  date: 2020-07-29
+  url: https://www.groundup.org.za/article/millions-rands-lottery-funding-mysterious-music-festival/
+  image: NLC.jpg
+  paper: GroundUp
+- title: "Lottery bows to pressure and releases grant details"
   author: Raymond Joseph
-  date: 2020-06-22
-  url: https://www.groundup.org.za/article/hijacked-organisation-gets-millions-lottery-grants/
-  image: WAR_RNA.jpg
+  date: 2020-07-28
+  url: https://www.groundup.org.za/article/lottery-bows-pressure-and-releases-grant-details/
+  image: parliament_cpt.jpg
+  paper: GroundUp
+- title: "OUTA lays fraud and racketeering complaint over Lottery grants"
+  author: Raymond Joseph
+  date: 2020-07-28
+  url: https://www.groundup.org.za/article/outa-lays-fraud-and-racketeering-complaint-over-lottery-grants/
+  image: handcuffs.jpg
+  paper: GroundUp
+- title: "Mystery fires destroy cars on premises of Lottery corruption witnesses"
+  author: Raymond Joseph
+  date: 2020-07-23
+  url: https://www.groundup.org.za/article/mystery-fires-destroy-cars-home-lottery-corruption-witnesses/
+  image: witness.jpg
+  paper: GroundUp
+- title: "Parliament to order National Lotteries Commission to hand over details of all its grants"
+  author: Raymond Joseph
+  date: 2020-07-15
+  url: https://www.groundup.org.za/article/parliament-order-national-lotteries-commission-hand-over-details-all-its-grants/
+  image: Dodgy-lottery1.jpg
+  paper: GroundUp
+- title: "Ebrahim Patel says names of lottery-funded organisations should be made public"
+  author: Raymond Joseph
+  date: 2020-07-01
+  url: https://www.groundup.org.za/article/ebrahim-patel-says-names-lottery-funded-organisations-should-be-made-public/
+  image: lottery-sign.jpg
   paper: GroundUp
 - title: "Government investigates lottery"
   author: Raymond Joseph
   date: 2020-06-29
   url: https://www.groundup.org.za/article/government-investigates-lottery/
   image: Ebrahim-Patel.jpg
+  paper: GroundUp
+- title: "Hijacked organisation gets millions in Lottery grants"
+  author: Raymond Joseph
+  date: 2020-06-22
+  url: https://www.groundup.org.za/article/hijacked-organisation-gets-millions-lottery-grants/
+  image: WAR_RNA.jpg
   paper: GroundUp
 - title: "'Lawfare' launched against GroundUp to stop us exposing lottery corruption"
   author: GroundUp Editors
