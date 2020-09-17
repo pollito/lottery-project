@@ -4,6 +4,12 @@ name: united-states
 title: United States
 story-title: "Defying the odds"
 links:
+- title: "Lotteries Are Using the Pandemic to Expand Online, Raising Concerns"
+  author: Jon Allsop, Raymond Joseph and Jeff Kelly Lowenstein 
+  date: 2020-09-15
+  url: https://www.worldpoliticsreview.com/articles/29057/why-critics-are-concerned-by-lotteries-online-push
+  image: wpr.jpg
+  paper: World Politics Review
 - title: "The Lottery Industry"
   author: David Hopper 
   date: 2019-06-21
