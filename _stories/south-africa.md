@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery executive could face probe by accountants’ oversight body"
+  author:  Raymond Joseph
+  date: 2020-09-23
+  url: https://www.groundup.org.za/article/lottery-executive-faces-probe-by-accountants-oversight-body/
+  image: Letwaba-sign.jpg
+  paper: GroundUp
 - title: "Lotteries Are Using the Pandemic to Expand Online, Raising Concerns"
   author:  Jon Allsop, Raymond Joseph and Jeff Kelly Lowenstein
   date: 2020-09-15
