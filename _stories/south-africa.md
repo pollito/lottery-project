@@ -620,7 +620,7 @@ Lists of successful funding applications are published each year in the [annual 
 
 But checking through the printed lists of grants is time consuming and not easy to do, so few people, including journalists, ever do so.
 
-<a target="_blank" href="https://public.tableau.com/views/NLCFunding/Dashboard?:embed=y&:display_count=yes"><img src="/img/sa-tableau.png"></a>
+<a target="_blank" href="https://public.tableau.com/profile/openup#!/vizhome/NLCFunding2/Dashboard:embed=y&:display_count=yes"><img src="/img/sa-tableau.png"></a>
 
 So we’ve made it simple to check who received funding, when and how much using a simple tool built by [OpenUp](https://openup.org.za/), a Cape Town-based civic tech organisation dedicated to transparency. All the data in the tool was [scraped ](https://en.wikipedia.org/wiki/Data_scraping)from the official NLC annual reports.
 
