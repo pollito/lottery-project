@@ -626,10 +626,9 @@ Lists of successful funding applications are published each year in the [annual 
 
 But checking through the printed lists of grants is time consuming and not easy to do, so few people, including journalists, ever do so.
 
-<a target="_blank" href="https://public.tableau.com/profile/openup#!/vizhome/NLCFunding2/Dashboard:embed=y&:display_count=yes"><img src="/img/sa-tableau20.png"></a>
+<a target="_blank" href="https://public.tableau.com/profile/openup#!/vizhome/NLCFunding2/Dashboard"><img src="/img/sa-tableau20.png"></a>
 
 So we’ve made it simple to check who received funding, when and how much using a simple tool built by [OpenUp](https://openup.org.za/), a Cape Town-based civic tech organisation dedicated to transparency. All the data in the tool was [scraped ](https://en.wikipedia.org/wiki/Data_scraping)from the official NLC annual reports.
-
 
 Be aware that, while in some cases we have cleaned up the data, grantees are sometimes listed in the tool as they appear in the NLC’s annual reports. This means that grants to a single organisation may be listed under several different names. We recommend that you start with the name of an organisation and then try keywords in its name, as well as possible variants of the name: e.g. South African and SA Society for Prevention of Cruelty to Animals alternatives when searching for a beneficiary to ensure that you include all grants.
 
@@ -643,7 +642,7 @@ We’ve dug through the data to find stories about the lottery and some recipien
 
 When the [South African Lottery](https://en.wikipedia.org/wiki/South_African_National_Lottery) was launched in South Africa in March 2000 it outlawed most other lottery-type games and scratch cards, badly affecting some non-profit organisations that were using these games for fund raising.
 
-A percentage of the weekly proceeds are paid over by the licensed lottery operator  – appointed every seven years and currently [Ithuba](http://ithubalottery.co.za/) - to the [National Lottery Commission](https://www.google.co.za/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwjX64TAisXVAhXhCsAKHS23AyoQFghCMAQ&url=https%3A%2F%2Fwww.nlcsa.org.za%2Four-history%2F&usg=AFQjCNHdu1FuuMemrHo5t-b94DTZ8AXCMQ), which is [regulated](http://www.nlcsa.org.za/regulations/)  by the [Department of Trade and Industry](http://www.dti.gov.za/agencies/nlc.jsp).
+A percentage of the weekly proceeds are paid over by the licensed lottery operator – appointed every seven years and currently [Ithuba](http://ithubalottery.co.za/) - to the [National Lottery Commission](https://www.nlcsa.org.za/our-history/), which is [regulated](http://www.nlcsa.org.za/regulations/)  by the [Department of Trade and Industry](http://www.dti.gov.za/agencies/nlc.jsp).
 
 The money is allocated in terms of four categories: Charities, Sports and Recreation, Arts, Culture and National Heritage and Miscellaneous. Over the years almost R22- billion has been granted to “good causes”.
 
@@ -651,7 +650,7 @@ Adjudications on funding applications are done by committees – known as distri
 
 ### The team
 
-In South Africa the Gaming the Lottery team was headed up by Raymond Joseph. Others involved were data journalists Daniela Lepiz and Roxanne Joseph, data analyst Adi Eyal and data wrangler/analyst Damian Schlechter and, [OCCRP ](https://www.occrp.org/en)Africa editor Khadija Sharife. [Trace](https://openup.org.za/trace), a project of civic tech organisation [OpenUp](http://www.openup.org.za/) scraped the lottery data for a search tool and also assisted with research, analysis and infographics. The [Fund for Investigative Journalism](http://fij.org/) and Trust Africa supported the project. A special thanks to Seamus Reynolds for additional research and support.
+In South Africa the Gaming the Lottery team was headed up by Raymond Joseph. Others involved were data journalists Daniela Lepiz and Roxanne Joseph, data analyst Adi Eyal and data wrangler/analyst Damian Schlechter and, [OCCRP](https://www.occrp.org/en) Africa editor Khadija Sharife. [Trace](https://openup.org.za/trace), a project of civic tech organisation [OpenUp](http://www.openup.org.za/) scraped the lottery data for a search tool and also assisted with research, analysis and infographics. The [Fund for Investigative Journalism](http://fij.org/) and Trust Africa supported the project. A special thanks to Seamus Reynolds for additional research and support.
 
 <p class="more-end"></p>
 
