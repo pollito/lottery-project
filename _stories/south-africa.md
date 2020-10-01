@@ -628,7 +628,7 @@ But checking through the printed lists of grants is time consuming and not easy 
 
 <a target="_blank" href="https://public.tableau.com/profile/openup#!/vizhome/NLCFunding2/Dashboard"><img src="/img/sa-tableau20.png"></a>
 
-So we’ve made it simple to check who received funding, when and how much using a simple tool built by [OpenUp](https://openup.org.za/), a Cape Town-based civic tech organisation dedicated to transparency. All the data in the tool was [scraped ](https://en.wikipedia.org/wiki/Data_scraping)from the official NLC annual reports.
+So we’ve made it simple to [check who received funding](https://public.tableau.com/profile/openup#!/vizhome/NLCFunding2/Dashboard), when and how much using a simple tool built by [OpenUp](https://openup.org.za/), a Cape Town-based civic tech organisation dedicated to transparency. All the data in the tool was [scraped ](https://en.wikipedia.org/wiki/Data_scraping)from the official NLC annual reports.
 
 Be aware that, while in some cases we have cleaned up the data, grantees are sometimes listed in the tool as they appear in the NLC’s annual reports. This means that grants to a single organisation may be listed under several different names. We recommend that you start with the name of an organisation and then try keywords in its name, as well as possible variants of the name: e.g. South African and SA Society for Prevention of Cruelty to Animals alternatives when searching for a beneficiary to ensure that you include all grants.
 
