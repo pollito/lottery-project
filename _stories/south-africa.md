@@ -8,7 +8,7 @@ links:
   author:   Zoë Postman and Raymond Joseph
   date: 2020-10-09
   url: https://www.groundup.org.za/article/call-transparency-appointment-new-lottery-boss/
-  image: nfreedom-fanfare.jpg
+  image: freedom-fanfare.jpg
   paper: GroundUp
 - title: "Call for transparency in appointment of new Lottery boss"
   author:  Raymond Joseph
