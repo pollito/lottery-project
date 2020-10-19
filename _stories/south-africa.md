@@ -5,7 +5,7 @@ title: South Africa
 story-title: South Africa
 links:
 - title: "Millions in Lottery money spent on football exhibition with limited public access"
-  author:   Zoë Postman and Raymond Joseph
+  author:  Zoë Postman and Raymond Joseph
   date: 2020-10-09
   url: https://www.groundup.org.za/article/call-transparency-appointment-new-lottery-boss/
   image: freedom-fanfare.jpg
