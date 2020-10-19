@@ -4,6 +4,24 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Millions in Lottery money spent on football exhibition with limited public access"
+  author:   Zoë Postman and Raymond Joseph
+  date: 2020-10-09
+  url: https://www.groundup.org.za/article/call-transparency-appointment-new-lottery-boss/
+  image: nfreedom-fanfare.jpg
+  paper: GroundUp
+- title: "Call for transparency in appointment of new Lottery boss"
+  author:  Raymond Joseph
+  date: 2020-10-08
+  url: https://www.groundup.org.za/article/call-transparency-appointment-new-lottery-boss/
+  image: nlc-lotto.jpg
+  paper: GroundUp
+- title: "Lottery corruption: Has the Auditor General been missing in action?"
+  author:  James Stent
+  date: 2020-09-29
+  url: https://www.groundup.org.za/article/lottery-corruption-has-auditor-general-been-missing-action/
+  image: nlc-lotto.jpg
+  paper: GroundUp
 - title: "Lottery executive could face probe by accountants’ oversight body"
   author:  Raymond Joseph
   date: 2020-09-23
