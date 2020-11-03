@@ -4,6 +4,36 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "NLC boss tells Parliament non-existent R13 million minstrel museum has been completed"
+  author:  Raymond Joseph
+  date: 2020-11-02
+  url: https://www.groundup.org.za/article/nlc-boss-tells-parliament-non-existent-r13-minstrel-museum-has-been-completed/
+  image: parliament_cpt.jpg
+  paper: GroundUp
+- title: "Hawks set up special team to investigate Lottery corruption"
+  author:  Raymond Joseph
+  date: 2020-10-29
+  url: https://www.groundup.org.za/article/hawks-set-special-team-investigate-lottery-corruption/
+  image: Lotto-sign.jpg
+  paper: GroundUp
+- title: "Lawyers’ body lets lottery crook off the hook"
+  author:  GroundUp Editors
+  date: 2020-10-26
+  url: https://www.groundup.org.za/article/lawyers-body-lets-lottery-crook-off-the-hook/
+  image: Letwaba-sign.jpg
+  paper: GroundUp
+- title: "Lawyers’ body lets lottery crook off the hook"
+  author:  GroundUp Editors
+  date: 2020-10-26
+  url: https://www.groundup.org.za/article/lawyers-body-lets-lottery-crook-off-the-hook/
+  image: nlc-lotto.jpg
+  paper: GroundUp
+- title: "MP tries to exclude public from meeting on appointment of new Lottery chair"
+  author:  Raymond Joseph
+  date: 2020-10-26
+  url: https://www.groundup.org.za/article/mp-tries-exclude-public-meeting-appointment-new-lottery-chair/
+  image: Parliamient.jpg
+  paper: GroundUp
 - title: "Millions in Lottery money spent on football exhibition with limited public access"
   author:  Zoë Postman and Raymond Joseph
   date: 2020-10-09
