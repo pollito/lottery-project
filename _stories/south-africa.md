@@ -14,7 +14,7 @@ links:
   author:  Liezl Human
   date: 2020-11-09
   url: https://www.groundup.org.za/article/cape-town-journalist-wins-international-award-investigation-corruption-national-lotteries-commission/
-  image: raymond-joseph.jpeg
+  image: raymond-joseph.png
   paper: GroundUp
 - title: "NLC boss tells Parliament non-existent R13 million minstrel museum has been completed"
   author:  Raymond Joseph
