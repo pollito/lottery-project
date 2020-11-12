@@ -4,6 +4,18 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Ramaphosa gives green light to Lottery probe"
+  author:  Raymond Joseph
+  date: 2020-11-09
+  url: https://www.groundup.org.za/article/president-gives-siu-green-light-probe-lottery-corruption/
+  image: nlc-lotto.jpg
+  paper: GroundUp
+- title: "Raymond Joseph recognised for Lottery investigation"
+  author:  Liezl Human
+  date: 2020-11-09
+  url: https://www.groundup.org.za/article/cape-town-journalist-wins-international-award-investigation-corruption-national-lotteries-commission/
+  image: raymond-joseph.jpeg
+  paper: GroundUp
 - title: "NLC boss tells Parliament non-existent R13 million minstrel museum has been completed"
   author:  Raymond Joseph
   date: 2020-11-02
@@ -15,12 +27,6 @@ links:
   date: 2020-10-29
   url: https://www.groundup.org.za/article/hawks-set-special-team-investigate-lottery-corruption/
   image: Lotto-sign.jpg
-  paper: GroundUp
-- title: "Lawyers’ body lets lottery crook off the hook"
-  author:  GroundUp Editors
-  date: 2020-10-26
-  url: https://www.groundup.org.za/article/lawyers-body-lets-lottery-crook-off-the-hook/
-  image: Letwaba-sign.jpg
   paper: GroundUp
 - title: "Lawyers’ body lets lottery crook off the hook"
   author:  GroundUp Editors
