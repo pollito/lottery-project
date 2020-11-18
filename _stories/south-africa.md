@@ -4,6 +4,24 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Big names shortlisted for Lottery chair"
+  author:  Raymond Joseph
+  date: 2020-11-18
+  url: https://www.groundup.org.za/article/big-names-shortlisted-lottery-chair/
+  image: NLC-rot.jpg
+  paper: GroundUp
+- title: "How National Lotteries officials tried to stop the rot – but were shut down"
+  author:  Sam Sole and Raymond Joseph
+  date: 2020-11-18
+  url: https://www.dailymaverick.co.za/article/2020-11-18-how-national-lotteries-officials-tried-to-stop-the-rot-but-were-shut-down/?fbclid=IwAR2YZlauDZ1E8xpSDjAWF2QgcWrrInxsLUry5DX_xfXdh_xm1h04DPIfEFY
+  image: DM-lotto.jpg
+  paper: Daily Maverick
+- title: "The woman who tried to stop the rot at the Lottery"
+  author:  Sam Sole and Raymond Joseph
+  date: 2020-11-18
+  url: https://www.groundup.org.za/article/woman-who-tried-stop-lottery-rot-was-hounded-out/?s=09&fbclid=IwAR08HuyIB_ZSh1VMe3C6Fcn05A7s5Gvkee-ErFJ8n0NhMwWqyf-PSzn8Qio
+  image: Bailey-report.png
+  paper: GroundUp
 - title: "Ramaphosa gives green light to Lottery probe"
   author:  Raymond Joseph
   date: 2020-11-09
