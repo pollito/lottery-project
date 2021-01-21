@@ -4,6 +4,60 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery boss misled Parliament"
+  author:  Raymond Joseph
+  date: 2021-01-11
+  url: https://www.groundup.org.za/article/minstrel-museum-may-open-soon-7-years-after-receiving-lottery-funding/
+  image: minstrel-museum.jpg
+  paper: GroundUp
+- title: "Lottery whistleblower “pressured” to pay IT company to build athletics track"
+  author:  Raymond Joseph
+  date: 2020-12-18
+  url: https://www.groundup.org.za/article/lottery-whistleblower-pressured-to-pay-it-company-to-build-athletics-track/
+  image: Galeshewe-stadium.jpg
+  paper: GroundUp
+- title: "Lottery millions splurged on glitzy award ceremonies"
+  author:  Raymond Joseph
+  date: 2020-12-17
+  url: https://www.groundup.org.za/article/lottery-money-splurged-glitzy-award-ceremonies/
+  image: carol-bouwer.jpg
+  paper: GroundUp
+- title: "Recipient of R7m in Lottery money won’t say what it’s for"
+  author:  Raymond Joseph
+  date: 2020-12-10
+  url: https://www.groundup.org.za/article/recipient-of-r7m-in-lottery-money-wont-say-what-its-for/
+  image: carol-bouwer.jpg
+  paper: GroundUp
+- title: "SIU and Hawks swoop on National Lotteries Commission"
+  author:  Raymond Joseph
+  date: 2020-12-03
+  url: https://www.groundup.org.za/article/siu-and-hawks-swoop-national-lotteries-commission/
+  image: SIU.jpeg
+  paper: GroundUp
+- title: "Appointment of new Lottery board chair delayed by three more months"
+  author:  Raymond Joseph
+  date: 2020-12-03
+  url: https://www.groundup.org.za/article/appointment-new-nlc-board-chair-delayed-three-more-months/
+  image: NLC-funded.jpg
+  paper: GroundUp
+- title: "Mystery of R5.5 million Lottery grant"
+  author:  Tshifhiwa Mukwevho and Anton van Zyl
+  date: 2020-12-03
+  url: https://www.groundup.org.za/article/mystery-r55-million-lottery-grant/
+  image: uprising-youth-development.jpeg
+  paper: GroundUp
+- title: "Legal opinion scuttles appointment of new Lottery chair"
+  author:  Raymond Joseph
+  date: 2020-11-23
+  url: https://www.groundup.org.za/article/legal-opinion-scuttles-appointment-new-lottery-chair/
+  image: Letwaba-sign.jpg
+  paper: GroundUp
+- title: "Lottery threatens legal action against Minister Ebrahim Patel"
+  author:  Raymond Joseph
+  date: 2020-11-19
+  url: https://www.groundup.org.za/article/lottery-threatens-legal-action-against-minister-ebrahim-patel/
+  image: Ebrahim-Patel.jpg
+  paper: GroundUp
 - title: "Big names shortlisted for Lottery chair"
   author:  Raymond Joseph
   date: 2020-11-18
