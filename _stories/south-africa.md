@@ -4,6 +4,42 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Minister Patel deals lottery corruption a blow"
+  author:  Raymond Joseph
+  date: 2021-03-19
+  url: https://www.groundup.org.za/article/blow-corruption-minster-patel-will-not-oppose-case-make-lottery-transparent/
+  image: Ebrahim-Patel.jpg
+  paper: GroundUp
+- title: "MPs row over Lottery board selection"
+  author:  Raymond Joseph
+  date: 2021-03-12
+  url: https://www.groundup.org.za/article/mps-row-over-suitability-current-nlc-board-member-new-chairperson/
+  image: Letwaba-sign.jpg
+  paper: GroundUp
+- title: "Lottery millions used for board member’s luxury home"
+  author:  Raymond Joseph
+  date: 2021-03-03
+  url: https://www.groundup.org.za/article/lottery-millions-used-for-nlc-board-members-luxury-home/
+  image: huma-house.jpg
+  paper: GroundUp
+- title: "Parliament shortlists eight candidates for Lottery chair"
+  author:  Raymond Joseph
+  date: 2021-02-26
+  url: https://www.groundup.org.za/article/parliament-shortlists-eight-candidates-lottery-chair/
+  image: parliament.jpg
+  paper: GroundUp
+- title: "Appointment process of new Lottery board chair restarts"
+  author:  Raymond Joseph
+  date: 2021-02-24
+  url: https://www.groundup.org.za/article/election-new-lotteries-board-chair-restarts/
+  image: nlc-lotto.jpg
+  paper: GroundUp
+- title: "Lotto’s R26 million half-built Limpopo old age home"
+  author:  Anton van Zyl, Tshifhiwa Mukwevho and Raymond Joseph
+  date: 2021-01-28
+  url: https://www.groundup.org.za/article/lottos-r26-million-half-built-old-age-home/
+  image: maila_village.jpeg
+  paper: GroundUp
 - title: "Lottery boss misled Parliament"
   author:  Raymond Joseph
   date: 2021-01-11
