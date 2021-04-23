@@ -4,6 +4,30 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Litigious Lottery spends millions of rands on lawyers"
+  author:  Raymond Joseph
+  date: 2021-04-22
+  url: https://www.groundup.org.za/article/litigious-lottery-spends-millions-rands-lawyers/
+  image: NLC-lotto.jpeg
+  paper: GroundUp
+- title: "NLC Commissioner misleads Parliament – again"
+  author:  Raymond Joseph
+  date: 2021-04-09
+  url: https://www.groundup.org.za/article/nlc-commissioner-misleads-parliament-again/
+  image: parliament-lrg.jpeg
+  paper: GroundUp
+- title: "Minister and Lottery board “at war” over new chair"
+  author:  Raymond Joseph
+  date: 2021-03-31
+  url: https://www.groundup.org.za/article/minister-and-lottery-board-at-war-over-a-new-chair/
+  image: Ebrahim-Patel.jpg
+  paper: GroundUp
+- title: "Marius Fransman, the Cape minstrels and the Lottery millions"
+  author:  Raymond Joseph
+  date: 2021-03-25
+  url: https://www.groundup.org.za/article/marius-fransman-cape-minstrels-and-lottery-millions/
+  image: CapeMinstrels.jpeg
+  paper: GroundUp
 - title: "Minister Patel deals lottery corruption a blow"
   author:  Raymond Joseph
   date: 2021-03-19
