@@ -4,6 +4,30 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "COSATU calls for public audit of Lottery"
+  author:  James Stent
+  date: 2021-05-11
+  url: https://www.groundup.org.za/article/cosatu-calls-public-audit-lottery/
+  image: Letwaba-sign.jpg
+  paper: GroundUp
+- title: "Lottery fast tracks R500,000 grant for Simphiwe Dana’s extravaganza"
+  author:  Raymond Joseph
+  date: 2021-05-10
+  url: https://www.groundup.org.za/article/lottery-fast-tracks-r500000-grant-for-simphiwe-danas-extravaganza/
+  image: simphiwe-dana.jpg
+  paper: GroundUp
+- title: "GroundUp takes lawyers’ council to court"
+  author:  GroundUp Editors
+  date: 2021-05-03
+  url: https://www.groundup.org.za/article/groundup-takes-lawyers-council-to-court/
+  image: scales-of-justice_extra_large.jpeg
+  paper: GroundUp
+- title: "Lottery spends millions fighting former employees"
+  author:  Raymond Joseph
+  date: 2021-04-28
+  url: https://www.groundup.org.za/article/nlc-spends-millions-litigation-former-employees/
+  image: nlc-funded.jpeg
+  paper: GroundUp
 - title: "Litigious Lottery spends millions of rands on lawyers"
   author:  Raymond Joseph
   date: 2021-04-22
