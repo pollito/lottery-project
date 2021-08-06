@@ -4,6 +4,36 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "The Lottery, the law firm and the minister: more questions than answers"
+  author:  GroundUp Editors
+  date: 2021-07-27
+  url: https://www.groundup.org.za/article/lottery-law-firm-and-minister-more-questions-answers/
+  image: justice-lamola.png
+  paper: GroundUp
+- title: "Lottery COO back at work after 17-month “leave of absence”"
+  author:  Raymond Joseph
+  date: 2021-07-26
+  url: https://www.groundup.org.za/article/lotteries-commission-coo-back-at-work-after-17-month-leave-of-absence/
+  image: alex-fm.jpeg
+  paper: GroundUp
+- title: "Dodgy Lottery: Judge dismisses attempt to block SIU investigating lottery millions"
+  author:  Tania Broughton
+  date: 2021-07-23
+  url: https://www.groundup.org.za/article/dodgy-lottery-siu-rebuffs-interdict-attempt-ramulifho-associate/
+  image: Ramulifho.jpeg
+  paper: GroundUp
+- title: "Minister of Justice’s law firm bungled lottery corruption probe"
+  author:  Raymond Joseph and Anton van Zyl
+  date: 2021-07-21
+  url: https://www.groundup.org.za/article/minister-of-justices-law-firm-bungled-lottery-corruption-probe/
+  image: justice-lamola.png
+  paper: GroundUp
+- title: "Dr Tumi, the Lottery and the alleged fraud of R1.5 million"
+  author:  Anton van Zyl and Raymond Joseph
+  date: 2021-06-10
+  url: https://www.groundup.org.za/article/dr-tumi-lottery-and-alleged-fraud-r15-million/
+  image: dr-tumi.jpeg
+  paper: GroundUp
 - title: "COSATU calls for public audit of Lottery"
   author:  James Stent
   date: 2021-05-11
