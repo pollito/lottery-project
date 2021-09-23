@@ -4,6 +4,48 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "ANC councillor questioned over dodgy Lottery grant"
+  author:  Kaizer Nengovhela
+  date: 2021-09-23
+  url: https://www.groundup.org.za/article/anc-councillor-questioned-over-dodgy-lottery-grant/
+  image: Tshimbupfe.jpeg
+  paper: GroundUp
+- title: "Lottery made accusations against our reporter. Now it can’t back them up"
+  author:  James Stent
+  date: 2021-09-15
+  url: https://www.groundup.org.za/article/lottery-made-allegations-against-our-reporter-now-it-cant-back-them-up/
+  image: parliament-question.jpeg
+  paper: GroundUp
+- title: "Television pastor and her cronies rake in millions in Lottery grants"
+  author:  Raymond Joseph
+  date: 2021-09-09
+  url: https://www.groundup.org.za/article/television-pastor-and-her-cronies-rake-millions-lottery-grants/
+  image: Joyline-Josamu.jpeg
+  paper: GroundUp
+- title: "Threat to journalist investigating Lottery corruption"
+  author:  Raymond Joseph
+  date: 2021-08-30
+  url: https://www.groundup.org.za/article/threat-journalist-investigating-lottery-corruption/
+  image: Tebogo-Sithathu.jpeg
+  paper: GroundUp
+- title: "Auditor-General declines request to investigate irregular Lottery grants"
+  author:  Liezl Human
+  date: 2021-08-23
+  url: https://www.groundup.org.za/article/auditor-general-declines-request-investigate-irregular-lottery-grants/
+  image: agsa.png
+  paper: GroundUp
+- title: "R10 million in Lottery funding for a Limpopo children’s centre didn’t go to any children"
+  author:  Anton van Zyl and Kaizer Nengovhela
+  date: 2021-08-19
+  url: https://www.groundup.org.za/article/r10-million-in-lottery-funding-for-a-limpopo-childrens-centre-did-not-go-to-any-children/
+  image: Tshimbupfe.jpeg
+  paper: GroundUp
+- title: "GroundUp journalists win Nat Nakasa award for lottery reporting"
+  author:  GroundUp Editors
+  date: 2021-08-16
+  url: https://www.groundup.org.za/article/groundup-journalists-win-nat-nakasa-award-lottery-reporting/
+  image: sanef_awards.jpeg
+  paper: GroundUp
 - title: "The Lottery, the law firm and the minister: more questions than answers"
   author:  GroundUp Editors
   date: 2021-07-27
