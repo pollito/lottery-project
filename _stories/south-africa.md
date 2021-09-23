@@ -890,7 +890,20 @@ Adjudications on funding applications are done by committees – known as distri
 
 ### The team
 
-In South Africa the Gaming the Lottery team was headed up by Raymond Joseph. Others involved were data journalists Anton van Zyl, Daniela Lepiz and Roxanne Joseph, data analyst Adi Eyal and data wrangler/analyst Damian Schlechter and, [OCCRP](https://www.occrp.org/en) Africa editor Khadija Sharife. [Trace](https://openup.org.za/trace), a project of civic tech organisation [OpenUp](http://www.openup.org.za/) scraped the lottery data for a search tool and also assisted with research, analysis and infographics. The [Fund for Investigative Journalism](http://fij.org/) and Trust Africa supported the project. A special thanks to Seamus Reynolds for additional research and support.
+In South Africa, the Gaming the Lottery team was headed up by Raymond Joseph. Others involved were data journalists Anton van Zyl, Daniela Lepiz and Roxanne Joseph, data analyst Adi Eyal and coder/data wrangler/analyst Damian Schlechter and, OCCRP Africa editor Khadija Sharife. 
+
+Civic tech organisation [OpenUp](http://www.openup.org.za/) scraped the lottery data and built a tool to make it keyword searchable, and also assisted with research, analysis and infographics. The [Fund for Investigative Journalism](http://fij.org/) and Trust Africa supported the project. A special thanks to Seamus Reynolds for additional research and support.
+
+As we added more data each year, the original tool, built using a free version of [Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&amp;utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&amp;utm_medium=Paid+Search&amp;utm_source=Google+Search&amp;utm_language=EN&amp;utm_country=SA&amp;kw=tableau&amp;adgroup=CTX-Brand-Core-EN-E&amp;adused=469111606538&amp;matchtype=e&amp;placement=&amp;gclid=CjwKCAjwy7CKBhBMEiwA0Eb7aqU6rui2eOZO3H-X1ZCw9cn5ytbR5EO0gg3is6EYQEsdM12CxlQHZBoCZ3oQAvD_BwE&amp;gclsrc=aw.ds), began slowing down. 
+
+So in 2021, we built [a new version](https://salotterytool.org.za/) of the tool, with the support of a grant from the [Indigo Trust](https://www.indigotrust.org.uk/). The team responsible for this tool was Shaun Russel, Rikus van Vuuren and Matthew Start, from OpenUp; Anton van Zyl, from the [Limpopo Mirror](https://www.limpopomirror.co.za/); Raymond Josepj, a freelancer who has covered the Lottery for [GroundUp](https://www.groundup.org.za/); and data night/analyst, Adi Eyal. 
+
+GroundUp, a Cape Town-based news agency that reports on social justice issues, and its editor, Nathan Geffen, have given major support to this ongoing investigation into the South African Lottery, which has exposed fraud, corruption and maladministration running into hundreds of millions of South African rands. 
+
+Without their support, and that of the funders who have supported this investigation, none of this would have been possible. 
+
+Finally, Jeff Kelly Lowenstein, the executive director of the [Center for Collaborative Investigative Journalism](https://ccij.io/) and Roxanne Joseph, who has kept the Gaming the Lottery site updated, have both played an invaluable role in the project. 
+
 
 <p class="more-end"></p>
 
