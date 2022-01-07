@@ -4,6 +4,48 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Secrecy surrounds R80 million in Lottery funding for sports project"
+  author:  Raymond Joseph
+  date: 2021-12-09
+  url: https://www.groundup.org.za/article/secrecy-surrounds-r80-million-lottery-funding-sports-project/
+  image: Ray-Letwaba.jpeg
+  paper: GroundUp
+- title: "Fikile Mbalula demands R2 million from GroundUp reporters"
+  author:  GroundUp Editors
+  date: 2021-12-08
+  url: https://www.groundup.org.za/article/fikile-mbalula-demands-r2-million-our-reporters/
+  image: Fikile-sues.jpeg
+  paper: GroundUp
+- title: "MPs demand update on Special Investigation Unit’s Lottery probe"
+  author:  Raymond Joseph
+  date: 2021-12-08
+  url: https://www.groundup.org.za/article/mps-demand-update-on-special-investigation-units-lottery-investigation/
+  image: lotto-boss-suspended.jpeg
+  paper: GroundUp
+- title: "Lottery audit delayed as Auditor-General flags problems"
+  author:  James Stent
+  date: 2021-12-01
+  url: https://www.groundup.org.za/article/lottery-audit-delayed-auditor-general-flags-problems/
+  image: NLC-report-due.jpeg
+  paper: GroundUp
+- title: "The minister, the Lottery boss and the luxury R5.6 million home"
+  author:  Raymond Joseph and Masego Mafata
+  date: 2021-11-29
+  url: https://www.groundup.org.za/article/minister-lottery-boss-and-luxury-r56-million-home/
+  image: Fikile-house.jpeg
+  paper: GroundUp
+- title: "GroundUp’s Ray Joseph is suing the Chief Operating Officer of the Lottery"
+  author:  Tania Broughton
+  date: 2021-11-15
+  url: https://www.groundup.org.za/article/groundups-rayjoseph-is-suing-the-chief-operating-officer-of-the-lottery/
+  image: Ray-Letwaba.jpeg
+  paper: GroundUp
+- title: "Lottery boss suspended as corruption probe heats up"
+  author:  Raymond Joseph
+  date: 2021-10-08
+  url: https://www.groundup.org.za/article/lottery-boss-suspended-corruption-probe-heats/
+  image: lotto-boss-suspended.jpeg
+  paper: GroundUp
 - title: "ANC councillor questioned over dodgy Lottery grant"
   author:  Kaizer Nengovhela
   date: 2021-09-23
