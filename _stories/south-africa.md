@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "What happened to the Lottery money paid to fund games for intellectually impaired athletes?"
+  author:  Raymond Joseph
+  date: 2022-01-11
+  url: https://www.groundup.org.za/article/what-happened-money-lottery-paid-fund-games-intellectually-impaired/
+  image: millions-disappear.jpeg
+  paper: GroundUp
 - title: "Secrecy surrounds R80 million in Lottery funding for sports project"
   author:  Raymond Joseph
   date: 2021-12-09
