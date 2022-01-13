@@ -8,7 +8,7 @@ links:
   author:  Raymond Joseph
   date: 2022-01-11
   url: https://www.groundup.org.za/article/what-happened-money-lottery-paid-fund-games-intellectually-impaired/
-  image: millions-disappear.jpeg
+  image: milions-disappear.jpeg
   paper: GroundUp
 - title: "Secrecy surrounds R80 million in Lottery funding for sports project"
   author:  Raymond Joseph
