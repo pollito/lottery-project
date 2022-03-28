@@ -4,6 +4,84 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "New board appointed to fix scandal-ridden Lottery"
+  author:  Raymond Joseph
+  date: 2022-03-24
+  url: https://www.groundup.org.za/article/new-board-appointed-scandal-ridden-lottery/
+  image: patel.jpeg
+  paper: GroundUp
+- title: "Lotteries Commission goes to court to force minister to appoint new board"
+  author:  Raymond Joseph
+  date: 2022-03-23
+  url: https://www.groundup.org.za/article/lotteries-commission-goes-court-force-minister-appoint-new-board/
+  image: nlc_lotto-3021hr.jpeg
+  paper: GroundUp
+- title: "Lottery money funded the board chair’s luxury private estate"
+  author:  Raymond Joseph
+  date: 2022-03-17
+  url: https://www.groundup.org.za/article/how-lottery-paid-for-its-chairpersons-luxury-private-estate/
+  image: nevhutanda-estate.jpeg
+  paper: GroundUp
+- title: "Maila's 'old-age home' exposes web of lies and deceit at Lottery"
+  author:  Anton van Zyl
+  date: 2022-03-12
+  url: https://www.zoutnet.co.za/articles/news/55677/2022-03-12/mailas-old-age-home-exposes-web-of-lies-and-deceit-at-lottery
+  image: august2020.jpeg
+  paper: Zoutnet
+- title: "Hawks swoop on Northern Cape Lottery offices after whistleblowers’ tip-offs"
+  author:  Raymond Joseph
+  date: 2022-03-11
+  url: https://www.groundup.org.za/article/hawks-swoop-northern-cape-lottery-offices-after-whistleblowers-tip-offs/
+  image: nwzafrica.jpeg
+  paper: GroundUp
+- title: "Ebrahim Patel moves to fire Lotteries board"
+  author:  Raymond Joseph
+  date: 2022-03-08
+  url: https://www.groundup.org.za/article/nlc-clears-its-coo-wrongdoing-in-internal-hearing/
+  image: patel.jpeg
+  paper: GroundUp
+- title: "Lotteries boss Phillemon Letwaba is back at work after being cleared by internal hearing"
+  author:  Raymond Joseph
+  date: 2022-03-08
+  url: https://www.groundup.org.za/article/nlc-clears-its-coo-wrongdoing-in-internal-hearing/
+  image: phillemon-letwaba.jpg
+  paper: GroundUp
+- title: "Deadline for nominations to National Lotteries Commission board"
+  author:  Masego Mafata and Raymond Joseph
+  date: 2022-03-07
+  url: https://www.groundup.org.za/article/network-corruption-exposed-in-lottery-corruption-probe/
+  image: Lotto-8518HR.jpeg
+  paper: GroundUp
+- title: "Network of corruption exposed in Lottery probe"
+  author:  Raymond Joseph
+  date: 2022-03-03
+  url: https://www.groundup.org.za/article/network-corruption-exposed-in-lottery-corruption-probe/
+  image: unfinished-project.jpeg
+  paper: GroundUp
+- title: "Court grants order on dodgy multimillion rand Lottery grant"
+  author:  Raymond Joseph
+  date: 2022-02-17
+  url: https://www.groundup.org.za/article/court-grants-order-on-dodgy-multimillion-rand-lottery-grant/
+  image: national-lottery.jpeg
+  paper: GroundUp
+- title: "National Lotteries Commission board is no longer quorate"
+  author:  Raymond Joseph
+  date: 2022-02-09
+  url: https://www.groundup.org.za/article/national-lotteries-commission-board-no-longer-quorate/
+  image: nlc-funded.jpeg
+  paper: GroundUp
+- title: "Judge dismisses Lottery bid to have corruption probe declared “unlawful”"
+  author:  Raymond Joseph
+  date: 2022-02-08
+  url: https://www.groundup.org.za/article/judge-dismisses-lottery-bid-to-have-corruption-probe-declared-unlawful/
+  image: patel.jpeg
+  paper: GroundUp
+- title: "Fowl play! Lottery board member received millions linked to Lottery grants"
+  author:  Raymond Joseph
+  date: 2022-02-07
+  url: https://www.groundup.org.za/article/nlc-board-member-received-millions-linked-to-lottery-grants/
+  image: huma_chicken_farm.jpeg
+  paper: GroundUp
 - title: "What happened to the Lottery money paid to fund games for intellectually impaired athletes?"
   author:  Raymond Joseph
   date: 2022-01-11
