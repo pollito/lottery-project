@@ -82,6 +82,12 @@ links:
   url: https://www.groundup.org.za/article/nlc-board-member-received-millions-linked-to-lottery-grants/
   image: huma_chicken_farm.jpeg
   paper: GroundUp
+- title: "Suspended Lottery boss faces disciplinary hearing"
+  author:  Raymond Joseph
+  date: 2022-01-20
+  url: https://www.groundup.org.za/article/suspended-lottery-boss-faces-disciplinary-inquiry/
+  image: phillemon-letwaba.jpg
+  paper: GroundUp
 - title: "What happened to the Lottery money paid to fund games for intellectually impaired athletes?"
   author:  Raymond Joseph
   date: 2022-01-11
