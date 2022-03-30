@@ -83,7 +83,7 @@ links:
   image: huma_chicken_farm.jpeg
   paper: GroundUp
 - title: "Suspended Lottery boss faces disciplinary hearing"
-  author:  Raymond Joseph
+  author: Raymond Joseph
   date: 2022-01-20
   url: https://www.groundup.org.za/article/suspended-lottery-boss-faces-disciplinary-inquiry/
   image: phillemon-letwaba.jpg
