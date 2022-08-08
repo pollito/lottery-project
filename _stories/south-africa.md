@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery boss suspended for the third time for suspected corruption"
+  author:  Raymond Joseph
+  date: 2022-08-05
+  url: https://www.groundup.org.za/article/lottery-boss-suspended-for-the-third-time-for-suspected-corruption/
+  image: Phillemon-Letwaba.png
+  paper: GroundUp
 - title: "Lotteries executive was paid almost R1-million as a 'performance bonus' – but he wasn’t even at work"
   author:  Raymond Joseph
   date: 2022-08-03
