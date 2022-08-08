@@ -4,6 +4,78 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lotteries executive was paid almost R1-million as a 'performance bonus' – but he wasn’t even at work"
+  author:  Raymond Joseph
+  date: 2022-08-03
+  url: https://www.groundup.org.za/article/lotteries-executive-was-paid-almost-r1-million-as-aperformance-bonus-but-he-wasnt-even-at-work/
+  image: groundup-lotto.jpeg
+  paper: GroundUp
+- title: "Lottery grant was meant to rebuild a Limpopo school that burned down during protests"
+  author:  Raymond Joseph
+  date: 2022-07-28
+  url: https://www.groundup.org.za/article/money-for-school-pays-for-lottery-bosss-golf-estate-home/
+  image: pecanwood2.jpeg
+  paper: GroundUp
+- title: "Lottery contractor gave millions towards ex-board chair’s mansion"
+  author:  Raymond Joseph
+  date: 2022-07-14
+  url: https://www.groundup.org.za/article/lottery-contractor-gave-millions-towards-ex-board-chairs-mansion/
+  image: nevhutanda-house.jpeg
+  paper: GroundUp
+- title: "Top Lottery exec to face new corruption inquiry"
+  author:  Raymond Joseph
+  date: 2022-07-11
+  url: https://www.groundup.org.za/article/top-lottery-exec-to-face-new-corruption-inquiry/
+  image: Phillemon-Letwaba.png
+  paper: GroundUp
+- title: "New information delays Lottery corruption report"
+  author:  Raymond Joseph
+  date: 2022-07-07
+  url: https://www.groundup.org.za/article/new-information-delays-siu-report-on-lottery-fraud/
+  image: lotto-sign.jpeg
+  paper: GroundUp
+- title: "SIU freezes mansion of former lottery chair"
+  author:  Raymond Joseph
+  date: 2022-06-27
+  url: https://www.groundup.org.za/article/siu-freezes-mansion-of-former-lottery-chair/
+  image: nevhutanda-house.jpeg
+  paper: GroundUp
+- title: "Dodgy lawyer Lesley Ramulifho still doing work for Lottery"
+  author:  Raymond Joseph
+  date: 2022-06-09
+  url: https://www.groundup.org.za/article/dodgy-lawyer-lesley-ramulifho-still-doing-work-for-lotteries-commission/
+  image: Lotto.jpeg
+  paper: GroundUp
+- title: "Appointment of Lottery chair back on track"
+  author:  Raymond Joseph
+  date: 2022-05-24
+  url: https://www.groundup.org.za/article/appointment-new-lottery-board-chair-back-on-track/
+  image: groundup-lotto.jpeg
+  paper: GroundUp
+- title: "SIU making progress in lottery corruption probes"
+  author:  Raymond Joseph
+  date: 2022-05-18
+  url: https://www.groundup.org.za/article/siu-making-progress-in-lottery-corruption-probes/
+  image: groundup-lotto.jpeg
+  paper: GroundUp
+- title: "Yet another delay in appointment of a new Lottery boss"
+  author:  Raymond Joseph
+  date: 2022-05-18
+  url: https://www.groundup.org.za/article/yet-another-delay-appointment-new-lotteries-boss/
+  image: NLCFunded.jpeg
+  paper: GroundUp
+- title: "Lotteries boss heads to court to stop corruption probe"
+  author:  Raymond Joseph
+  date: 2022-04-11
+  url: https://www.groundup.org.za/article/lotteries-coo-heads-court-stop-corruption-probe/
+  image: nlc_lotto.jpeg
+  paper: GroundUp
+- title: "Former Lotteries boss claims a dodgy 'professorship'"
+  author:  Daniel Steyn
+  date: 2022-04-04
+  url: https://www.groundup.org.za/article/alfred-nevhutanda-doth-profess-too-much/
+  image: nevhutanda.jpeg
+  paper: GroundUp
 - title: "New board appointed to fix scandal-ridden Lottery"
   author:  Raymond Joseph
   date: 2022-03-24
