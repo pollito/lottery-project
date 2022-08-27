@@ -4,6 +4,12 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery swindle: the story so far"
+  author:  Raymond Joseph
+  date: 2022-08-11
+  url: https://www.groundup.org.za/article/lottery-swindle-story-so-far/
+  image: nevhutanda-house.jpeg
+  paper: GroundUp
 - title: "Lottery boss suspended for the third time for suspected corruption"
   author:  Raymond Joseph
   date: 2022-08-05
