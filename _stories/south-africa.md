@@ -16,12 +16,6 @@ links:
   url: https://www.groundup.org.za/article/lottery-coo-phillemon-letwaba-has-resigned/
   image: Phillemon-Letwaba.png
   paper: GroundUp
-- title: "Iqbal Survé’s newspapers take the side of the Lottery crooks"
-  author:  GroundUp Editors
-  date: 2022-08-23
-  url: https://www.groundup.org.za/article/iqbal-surves-newspapers-take-side-lottery-crooks/
-  image: CapeTimesProtestDec2013.jpeg
-  paper: GroundUp
 - title: "Lottery boss resigns with 'immediate effect'"
   author:  Raymond Joseph
   date: 2022-08-16
