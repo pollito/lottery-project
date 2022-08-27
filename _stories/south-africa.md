@@ -4,6 +4,36 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Independent Media responds to GroundUp"
+  author:  Aziz Hartley
+  date: 2022-08-25
+  url: https://www.groundup.org.za/article/independent-media-responds-to-groundup/
+  image: iqbalsurve.jpeg
+  paper: GroundUp
+- title: "ITHUBA campaign raises troubling questions for Twitter"
+  author:  James Stent and Nathan Geffen
+  date: 2022-08-25
+  url: https://www.groundup.org.za/article/ithuba-adverts-raise-troubling-questions-for-twitter/
+  image: schalkbezuidenhout.jpeg
+  paper: GroundUp
+- title: "Lottery’s Phillemon Letwaba resigns under a cloud"
+  author:  Raymond Joseph
+  date: 2022-08-25
+  url: https://www.groundup.org.za/article/lottery-coo-phillemon-letwaba-has-resigned/
+  image: Phillemon-Letwaba.png
+  paper: GroundUp
+- title: "Iqbal Survé’s newspapers take the side of the Lottery crooks"
+  author:  GroundUp Editors
+  date: 2022-08-23
+  url: https://www.groundup.org.za/article/iqbal-surves-newspapers-take-side-lottery-crooks/
+  image: CapeTimesProtestDec2013.jpeg
+  paper: GroundUp
+- title: "Lottery boss resigns with 'immediate effect'"
+  author:  Raymond Joseph
+  date: 2022-08-16
+  url: https://www.groundup.org.za/article/lottery-boss-resigns-with-immediate-effect/
+  image: thabangmampane.jpeg
+  paper: GroundUp
 - title: "Lottery swindle: the story so far"
   author:  Raymond Joseph
   date: 2022-08-11
