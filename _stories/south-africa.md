@@ -4,12 +4,6 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
-- title: "Independent Media responds to GroundUp"
-  author:  Aziz Hartley
-  date: 2022-08-25
-  url: https://www.groundup.org.za/article/independent-media-responds-to-groundup/
-  image: iqbalsurve.jpeg
-  paper: GroundUp
 - title: "ITHUBA campaign raises troubling questions for Twitter"
   author:  James Stent and Nathan Geffen
   date: 2022-08-25
