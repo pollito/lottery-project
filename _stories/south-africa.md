@@ -4,6 +4,18 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "New acting Lottery boss appointed"
+  author:  Raymond Joseph
+  date: 2022-09-01
+  url: https://www.groundup.org.za/article/new-acting-lottery-boss-appointed/
+  image: Lotto.jpeg
+  paper: GroundUp
+- title: "National Lotteries Commission ignored warnings about corruption"
+  author:  Raymond Joseph
+  date: 2022-09-01
+  url: https://www.groundup.org.za/article/national-lotteries-commission-ignored-warnings-about-corruption/
+  image: groundup-lotto.jpeg
+  paper: GroundUp
 - title: "ITHUBA campaign raises troubling questions for Twitter"
   author:  James Stent and Nathan Geffen
   date: 2022-08-25
