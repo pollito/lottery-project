@@ -4,6 +4,78 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "R27-million from Lottery but six years later rehab still not operational"
+  author:  Raymond Joseph
+  date: 2022-12-19
+  url: https://www.groundup.org.za/article/r27-million-from-lottery-but-six-years-later-rehab-still-not-open/
+  image: SIU.jpeg
+  paper: GroundUp
+- title: "R15m for 5-night show - the Tsotsi star’s Lottery-funded musical"
+  author:  Raymond Joseph
+  date: 2022-12-12
+  url: https://www.groundup.org.za/article/questions-surround-lottery-fund-musical-directed-by-tsotsi-star/
+  image: SAYM.jpeg
+  paper: GroundUp
+- title: "New full-time Lotteries boss to be appointed early next year"
+  author:  Raymond Joseph
+  date: 2022-12-06
+  url: https://www.groundup.org.za/article/new-full-time-lotteries-boss-to-be-appointed-early-next-year/
+  image: Scholtz.jpeg
+  paper: GroundUp
+- title: "Senior Lotteries staff suspended as corruption crackdown gains momentum"
+  author:  Raymond Joseph
+  date: 2022-11-30
+  url: https://www.groundup.org.za/article/senior-lotteries-staff-suspended-as-corruption-crackdown-gains-momentum/
+  image: staff.jpeg
+  paper: GroundUp
+- title: "Army of fake companies used to defraud the Lottery"
+  author:  Raymond Joseph
+  date: 2022-11-17
+  url: https://www.groundup.org.za/article/siu-investigates-r14-m-dodgy-projects-linked-to-former-board-member/
+  image: SIU.jpeg
+  paper: GroundUp
+- title: "Terry Pheto’s house may go up for auction to recover Lottery funds"
+  author:  Raymond Joseph
+  date: 2022-11-07
+  url: https://www.groundup.org.za/article/terry-phetos-three-storey-mansion-may-go-up-for-auction-to-recover-lottery-funds/
+  image: Terry.jpeg
+  paper: GroundUp
+- title: "Millions to be spent to complete abandoned Lottery-funded projects"
+  author:  Raymond Joseph
+  date: 2022-10-31
+  url: https://www.groundup.org.za/article/nlc-allocates-millions-to-complete-abandoned-lottery-funded-projects/
+  image: Kuruman.jpeg
+  paper: GroundUp
+- title: "Lottery cracks down on sky-high spending on lawyers"
+  author:  Raymond Joseph
+  date: 2022-10-20
+  url: https://www.groundup.org.za/article/lotteries-commission-cracks-down-on-sky-high-spending-on-lawyers/
+  image: lottery-lawyer.jpeg
+  paper: GroundUp
+- title: "Former Lottery boss personally recommended R4.8-million grant for his wife’s company"
+  author:  Raymond Joseph
+  date: 2022-10-17
+  url: https://www.groundup.org.za/article/former-lottery-boss-personally-recommended-r48-million-grant-for-his-wifes-company/
+  image: pension.jpeg
+  paper: GroundUp
+- title: "SIU investigating dodgy Lottery grants worth over R1.4-billion"
+  author:  Raymond Joseph
+  date: 2022-09-28
+  url: https://www.groundup.org.za/article/siu-investigating-dodgy-lottery-grants-of-over-r14-billion/
+  image: pension.jpeg
+  paper: GroundUp
+- title: "Former Lottery executive’s pension frozen as corruption probe hots up"
+  author:  Raymond Joseph
+  date: 2022-09-21
+  url: https://www.groundup.org.za/article/former-lotteries-boss-sees-his-pension-frozen-as-corruption-probe-hots-up/
+  image: pension.jpeg
+  paper: GroundUp
+- title: "Leaked report sheds more light on the rot at Lottery-funded school"
+  author:  Anton van Zyl and Raymond Joseph
+  date: 2022-09-08
+  url: https://www.groundup.org.za/article/leaked-report-sheds-more-light-on-rot-at-lottery-funded-school/
+  image: Vhafamadi.jpeg
+  paper: GroundUp
 - title: "New acting Lottery boss appointed"
   author:  Raymond Joseph
   date: 2022-09-01
