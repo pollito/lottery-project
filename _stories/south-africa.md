@@ -4,6 +4,11 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Mystery: Why did a youth movement get lottery funding to build an old age home that doesn’t appear to be needed?"
+  author:  Raymond Joseph
+  date: 2023-01-12
+  url: https://www.groundup.org.za/article/mystery-why-did-a-youth-movement-get-lottery-funding-to-build-an-old-age-home-that-doesnt-appear-to-be-needed/
+  image: Sigudhla.jpeg
 - title: "R27-million from Lottery but six years later rehab still not operational"
   author:  Raymond Joseph
   date: 2022-12-19
