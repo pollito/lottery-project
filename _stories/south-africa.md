@@ -4,6 +4,66 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "GroundUp told to remove Lottery article following fake copyright claim"
+  author:  Raymond Joseph, Anton van Zyl and Nathan Geffen
+  date: 2023-05-19
+  url: https://www.groundup.org.za/article/groundups-internet-host-orders-story-about-dodgy-lawyer-to-be-removed/
+  image: new_board.jpeg
+- title: "Board member’s abandoned farm business soaked up R4.6-million in Lottery funds"
+  author:  Raymond Joseph
+  date: 2023-05-18
+  url: https://www.groundup.org.za/article/former-lottery-board-member-linked-to-abandoned-lottery-funded-farming-project/
+  image: humafarmgoogle.jpeg
+- title: "Company made millions advising corruption-riddled Lottery on ethics"
+  author:  Raymond Joseph
+  date: 2023-05-04
+  url: https://www.groundup.org.za/article/company-made-millions-advising-corruption-riddled-lotteries-commission-on-ethics/
+  image: anticorruptionnlcadvertorial.jpeg
+- title: "New National Lotteries Commission Board appointed"
+  author:  Raymond Joseph
+  date: 2023-05-02
+  url: https://www.groundup.org.za/article/new-national-lotteries-commission-board-appointed/
+  image: new_board.jpeg
+- title: "Special Investigating Unit to ask President Ramaphosa to extend its Lottery probe"
+  author:  Raymond Joseph
+  date: 2023-04-03
+  url: https://www.groundup.org.za/article/special-investigating-unit-to-ask-president-ramaphosa-to-extend-its-lottery-probe/
+  image: strict_measures.jpeg
+- title: "Terry Pheto’s house paid for with Lottery money finally sold"
+  author:  Raymond Joseph
+  date: 2023-03-29
+  url: https://www.groundup.org.za/article/sold-terry-phetos-house-that-was-paid-for-with-lottery-money/
+  image: terry_pheto.jpeg
+- title: "Concern in Parliament over slow pace of prosecutions for Lottery corruption"
+  author:  Raymond Joseph
+  date: 2023-03-28
+  url: https://www.groundup.org.za/article/minister-nlc-and-mps-concerned-at-lack-of-prosecutions-for-lottery-corruption/
+  image: strict_measures.jpeg
+- title: "Key legal files involving Lottery’s multimillion-rand litigation have vanished"
+  author:  Raymond Joseph
+  date: 2023-03-23
+  url: https://www.groundup.org.za/article/records-lotterys-multimillion-rand-litigation-vanish/
+  image: strict_measures.jpeg
+- title: "Lottery gives R10-million for youth awards ceremony - but not a cent was spent on the event"
+  author:  Raymond Joseph
+  date: 2023-03-14
+  url: https://www.groundup.org.za/article/lottery-gives-r10-million-for-youth-awards-ceremony-but-not-a-cent-spent-on-the-event/
+  image: missing_millions.jpeg
+- title: "Strict new measures to combat Lottery corruption"
+  author:  Raymond Joseph
+  date: 2023-02-13
+  url: https://www.groundup.org.za/article/strict-new-measures-to-combat-lottery-corruption/
+  image: strict_measures.jpeg
+- title: "Youth organisation scored big time from Lottery amendment for which it lobbied"
+  author:  Raymond Joseph
+  date: 2023-01-23
+  url: https://www.groundup.org.za/article/youth-organisation-scored-big-time-from-lottery-amendment-it-lobbied-for/
+  image: collageofsigudhla.jpeg
+- title: "How Lottery money was used to fund mansions for high flyers"
+  author:  Raymond Joseph
+  date: 2023-01-16
+  url: https://www.groundup.org.za/article/how-lottery-money-was-used-to-fund-mansions-for-high-flyers/
+  image: simonstown.jpeg
 - title: "Mystery: Why did a youth movement get lottery funding to build an old age home that doesn’t appear to be needed?"
   author:  Raymond Joseph
   date: 2023-01-12
