@@ -4,6 +4,61 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Lottery official’s bank accounts frozen because of suspicious payments"
+  author:  Raymond Joseph and Ella Morrison
+  date: 2023-09-15
+  url: https://www.groundup.org.za/article/bank-accounts-frozen-over-suspicious-lottery-payments/
+  image: frozen-accounts.jpeg
+- title: "Lottery looter is living the jet set life"
+  author:  Grethen de Waal, Ella Morrison and Raymond Joseph
+  date: 2023-08-30
+  url: https://www.groundup.org.za/article/lottery-looter-lesley-ramulifho-living-jetset-high-life/
+  image: maldives.jpeg
+- title: "Kwaito star Arthur Mafokate and the dodgy Lottery grant"
+  author:  Raymond Joseph
+  date: 2023-08-21
+  url: https://www.groundup.org.za/article/kwaito-star-arthur-mafokate-dodgy-lottery-grants/
+  image: fight-corruption.jpeg
+- title: "Lottery loses court case after lawyer no-show"
+  author:  Tania Broughton and Raymond Joseph
+  date: 2023-08-17
+  url: https://www.groundup.org.za/article/lottery-loses-court-case-after-lawyer-no-show/
+  image: Lesley-Ramulifho.jpeg
+- title: "Exposed: The Sunday World’s lucrative partnership with the Lottery"
+  author:  Raymond Joseph and Anton van Zyl
+  date: 2023-08-03
+  url: https://www.groundup.org.za/article/exposed-the-sunday-worlds-lucrative-partnership-with-lottery/
+  image: Fundudzi-Media.jpeg
+- title: "Lottery promises to fight corruption"
+  author:  Raymond Joseph
+  date: 2023-07-17
+  url: https://www.groundup.org.za/article/national-lotteries-commission-promises-greater-transparency-to-combat-corruption/
+  image: fight-corruption.jpeg
+- title: "Fikile Mbalula in row over frozen luxury house"
+  author:  Raymond Joseph
+  date: 2023-06-27
+  url: https://www.groundup.org.za/article/fikile-mbalula-in-row-over-frozen-luxury-house/
+  image: mandeville-road.jpeg
+- title: "New Lottery boss promises huge clean-up"
+  author:  Raymond Joseph
+  date: 2023-06-20
+  url: https://www.groundup.org.za/article/apologies-reparation-on-the-cards-for-staff-hounded-out-by-corrupt-lottery-bosses/
+  image: Jodi-Scholtz.jpeg
+- title: "Man behind failed Soweto sports centre has fingers in several Lottery pies"
+  author:  Raymond Joseph and Masego Mafata
+  date: 2023-06-19
+  url: https://www.groundup.org.za/article/man-behind-failed-soweto-sports-centre-has-fingers-in-several-lottery-pies/
+  image: coming-soon.jpeg
+- title: "Row over cost of Lottery’s annual reports"
+  author:  Raymond Joseph
+  date: 2023-06-13
+  url: https://www.groundup.org.za/article/national-lotteries-commission-paid-millions-to-print-475-copies-its-annual-reports/
+  image: integrated-report.jpeg
+- title: "Dodgy Lottery lawyer trapped by his web of lies"
+  author:  Raymond Joseph and Anton van Zyl
+  date: 2023-06-07
+  url: https://www.groundup.org.za/article/embattled-dodgy-lawyer-and-lotto-looter-trapped-in-web-of-lies/
+  image: Lesley-Ramulifho.jpeg
 - title: "GroundUp told to remove Lottery article following fake copyright claim"
   author:  Raymond Joseph, Anton van Zyl and Nathan Geffen
   date: 2023-05-19
