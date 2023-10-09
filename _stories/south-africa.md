@@ -4,6 +4,11 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "New measures to prevent Lotto looting"
+  author:  Raymond Joseph
+  date: 2023-09-22
+  url: https://www.groundup.org.za/article/plugging-the-holes-that-allowed-lotto-looters-to-rob-the-nation/
+  image: nlc.jpeg
 - title: "Lottery official’s bank accounts frozen because of suspicious payments"
   author:  Raymond Joseph and Ella Morrison
   date: 2023-09-15
