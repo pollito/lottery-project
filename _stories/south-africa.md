@@ -23,7 +23,7 @@ links:
   author:  Raymond Joseph
   date: 2024-01-31
   url: https://groundup.org.za/article/arthur-mafokate-fails-to-overturn-preservation-order-on-his-guesthouse/
-  image: Arthur Mafokate.jpg
+  image: Arthur Mafokate
 - title: "Lottery whistleblower is one of five South Africans to win international award"
   author:  Raymond Joseph
   date: 2023-12-05
