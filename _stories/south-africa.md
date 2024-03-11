@@ -4,6 +4,56 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Hawks and SIU raid accountants in lottery corruption investigation"
+  author:  Raymond Joseph
+  date: 2024-02-21
+  url: https://groundup.org.za/article/hawks-siu-raid-accountants-in-lottery-corruption-investigation/
+  image: special_investigating_unit_logo.png
+- title: "“Criminal syndicate” was run inside the Lottery says SIU"
+  author:  Raymond Joseph
+  date: 2024-02-16
+  url: https://groundup.org.za/article/criminal-syndicate-was-run-inside-the-lottery-says-siu/
+  image: dticppc_extra_large.jpeg
+- title: "Hawks act against one of their own for Lottery corruption"
+  author:  Raymond Joseph, Thembi Siaga and Anton van Zyl
+  date: 2024-02-12
+  url: https://groundup.org.za/article/hawks-act-against-one-their-own-for-lottery-corruption/
+  image: ramatsekisa_house_2_huge.jpg
+- title: "Kwaito star fails to overturn preservation order on his guesthouse"
+  author:  Raymond Joseph
+  date: 2024-01-31
+  url: https://groundup.org.za/article/arthur-mafokate-fails-to-overturn-preservation-order-on-his-guesthouse/
+  image: Arthur Mafokate.jpg
+- title: "Lottery whistleblower is one of five South Africans to win international award"
+  author:  Raymond Joseph
+  date: 2023-12-05
+  url: https://groundup.org.za/article/lottery-whistleblower-is-one-of-five-south-africans-to-win-international-awards/
+  image: NLCFunded-RJ-20190801_extra_large.jpg
+- title: "Third qualified audit in a row for National Lotteries Commission"
+  author:  Raymond Joseph
+  date: 2023-12-05
+  url: https://groundup.org.za/article/third-qualified-audit-in-a-row-for-national-lotteries-commission/
+  image: nlc_lotto-3021hr_extra_large.jpg
+- title: "Lottery to lay criminal complaints against former board members"
+  author:  Raymond Joseph
+  date: 2023-11-23
+  url: https://groundup.org.za/article/lottery-to-crack-down-on-corrupt-former-board-members/
+  image: groundup-lotto_large_extra_large.jpg
+- title: "The NPA, the former Lottery boss and the Rolls Royce"
+  author:  Raymond Joseph
+  date: 2023-11-21
+  url: https://groundup.org.za/article/npa-unfreezes-former-lottery-bosss-rolls-royce-after-discovering-he-sold-it/
+  image: nevhutandas-from-church-website_huge.jpg
+- title: "NPA under pressure to bring Lottery looters to court"
+  author:  Raymond Joseph
+  date: 2023-10-25
+  url: https://groundup.org.za/article/r2-billion-in-lottery-grants-under-investigation-only-one-person-to-date-jailed-for-fraud/
+  image: groundup-lotto_large_extra_large.jpg
+- title: "How the former Lottery board chair paid for his R6.3-million Rolls Royce"
+  author:  Raymond Joseph
+  date: 2023-10-18
+  url: https://groundup.org.za/article/how-the-former-lottery-board-chair-paid-for-his-r65-million-rolls-royce/
+  image: nevhutandas-from-church-website_huge.jpg
 - title: "New measures to prevent Lotto looting"
   author:  Raymond Joseph
   date: 2023-09-22
