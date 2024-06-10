@@ -4,6 +4,31 @@ name: south-africa
 title: South Africa
 story-title: South Africa
 links:
+- title: "Athletics SA boss may face prosecution for Lottery corruption"
+  author:  Raymond Joseph
+  date: 2024-05-07
+  url: https://groundup.org.za/article/athletics-south-africa-exec-implicated-in-lottery-corruption-may-yet-face-prosecution/
+  image: Terrence Magogodela.jpeg
+- title: "How the Lottery used an ethics company to launder money"
+  author:  Raymond Joseph
+  date: 2024-04-15
+  url: https://groundup.org.za/article/how-lottery-used-ethics-company-to-launder-money/
+  image: NLC-new.jpeg
+- title: "Tribunal blocks former Lottery boss from selling farm bought with grant money"
+  author:  Raymond Joseph
+  date: 2024-04-06
+  url: https://groundup.org.za/article/tribunal-blocks-former-lottery-boss-from-selling-farm-bought-with-lottery-money/
+  image: Phillemon Letwaba-farm.jpeg
+- title: "How the Lottery paid R1.7-million for a flash mob that never happened"
+  author:  Raymond Joseph and Tsoanelo Sefoloko
+  date: 2024-04-05
+  url: https://groundup.org.za/article/how-the-lottery-paid-r17-million-for-a-flash-mob-that-never-happened/
+  image: Mabontle Mokwebo.jpeg
+- title: "Previous Lottery board and management ignored corruption investigations"
+  author:  Raymond Joseph
+  date: 2024-03-15
+  url: https://groundup.org.za/article/previous-nlc-board-and-management-ignored-corruption-investigations/
+  image: NLC-new.jpeg
 - title: "Hawks and SIU raid accountants in lottery corruption investigation"
   author:  Raymond Joseph
   date: 2024-02-21
